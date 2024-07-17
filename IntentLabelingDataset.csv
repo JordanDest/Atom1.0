@@ -1,0 +1,3445 @@
+Command,Label
+Whats the weather like today in New York?,Weather
+Define photosynthesis,Lexicon
+Turn on the bedroom lights,IoT
+Give me the latest news in science,News
+What are the synonyms of happy?,Lexicon
+Whats the forecast for tomorrow in San Francisco?,Weather
+Turn the living room lights to 50% brightness,IoT
+What is the antonym of sad?,Lexicon
+Set the kitchen lights to blue,IoT
+Summarize todays scientific discoveries,News
+Explain quantum entanglement,ScientificResearch
+Are there any scientific breakthroughs in cancer research?,ScientificResearch
+Whats the weather forecast for the weekend?,Weather
+Dim the lights in the bathroom,IoT
+What does entropy mean?,Lexicon
+Change the bedroom light color to green,IoT
+Provide the latest updates in AI research,ScientificResearch
+Give me synonyms for quick,Lexicon
+Whats the antonym of fast?,Lexicon
+Tell me about the recent developments in renewable energy,ScientificResearch
+How should I dress for 70 degrees Fahrenheit?,Weather
+Is it warm enough to wear shorts today?,Weather
+Should I take an umbrella if it might rain later?,Weather
+Whats the best outfit for a hot and humid day?,Weather
+Do I need a jacket if its 50 degrees outside?,Weather
+Whats the top science headline today?,News
+Tell me the recent advancements in space exploration,News
+Update me on the latest technology news,News
+Whats new in biotechnology?,News
+What are the top three science news articles today?,News
+Give me todays update on climate change news,News
+Whats happening in the world of physics today?,News
+Tell me the latest in medical research news,News
+What are the new findings in neuroscience?,News
+Whats the latest scientific discovery?,News
+Tell me about the recent breakthroughs in AI,News
+Whats the recent update in nanotechnology?,News
+Give me a summary of todays scientific news,News
+Whats new in the world of chemistry?,News
+Tell me todays environmental science news,News
+Whats the top story in science today?,News
+Give me the highlights of todays technology news,News
+What are the recent trends in scientific research?,News
+Whats the latest development in genetic engineering?,News
+Update me on todays innovations in science,News
+Whats the current news in quantum physics?,News
+Give me a digest of todays top science stories,News
+Whats the latest in space science?,News
+Tell me about the new advancements in robotics,News
+Whats trending in the science world today?,News
+Give me an update on current scientific events,News
+Whats the latest research news in biology?,News
+Tell me the current news in environmental science,News
+Whats the latest scientific breakthrough?,News
+Update me on the current technology trends,News
+Whats new in the field of renewable energy?,News
+Whats happening in scientific research today?,News
+Give me the top science news stories of the day,News
+Tell me about todays medical research news,News
+Whats the current news in artificial intelligence?,News
+What are todays highlights in science news?,News
+Give me todays update on technological advancements,News
+Whats new in the world of medicine?,News
+Tell me about the recent innovations in physics,News
+Whats the latest in environmental research?,News
+Give me todays top science headlines,News
+Whats the latest update in scientific discoveries?,News
+Update me on todays breakthroughs in biotechnology,News
+Whats new in the world of genetics?,News
+Tell me the latest findings in neuroscience,News
+Give me a summary of todays tech news,News
+Whats trending in scientific discoveries today?,News
+Whats the latest development in space exploration?,News
+Update me on current advancements in technology,News
+Tell me the latest updates in AI research,News
+Whats the current news in biomedicine?,News
+Give me todays scientific news highlights,News
+Whats new in the field of physics today?,News
+Tell me about recent scientific discoveries,News
+Whats the latest research in environmental science?,News
+Give me an update on todays technology trends,News
+Whats new in medical science today?,News
+Tell me the top science stories of the day,News
+Whats the latest in renewable energy research?,News
+Update me on todays scientific breakthroughs,News
+Whats the current news in neuroscience?,News
+Give me todays update on scientific research,News
+Whats the latest development in biotechnology?,News
+Tell me the recent advancements in AI,News
+Whats new in the world of chemistry today?,News
+Give me a digest of todays science news,News
+Whats the current news in physics?,News
+Tell me the latest findings in biomedicine,News
+Update me on todays technology news,News
+Whats the latest research in neuroscience?,News
+Whats trending in science today?,News
+Give me the top technology news stories of the day,News
+Tell me about todays breakthroughs in medical research,News
+Whats new in the field of space science?,News
+Give me todays update on scientific advancements,News
+Whats the current news in genetics?,News
+Tell me the latest discoveries in quantum physics,News
+Update me on todays innovations in biotechnology,News
+Whats new in scientific research today?,News
+Give me a summary of todays top tech news,News
+Whats the latest in the world of neuroscience?,News
+Tell me about the recent advancements in space science,News
+Whats the latest development in environmental science?,News
+Update me on todays breakthroughs in genetics,News
+Whats new in the field of nanotechnology today?,News
+Give me todays highlights in scientific news,News
+Whats the current news in technology?,News
+Tell me the latest updates in renewable energy research,News
+Whats new in the world of artificial intelligence?,News
+Give me a digest of todays scientific advancements,News
+Whats the current temperature in London?,Weather
+Is it going to rain this afternoon?,Weather
+Whats the weather like in Tokyo right now?,Weather
+Will it be sunny tomorrow?,Weather
+Whats the weather forecast for next week?,Weather
+Is there a chance of snow this weekend?,Weather
+Whats the humidity level today?,Weather
+How windy is it outside?,Weather
+Whats the UV index today?,Weather
+Should I wear a coat today?,Weather
+Will it be hot this weekend?,Weather
+Whats the weather forecast for this evening?,Weather
+Is it going to be cloudy today?,Weather
+Whats the temperature right now?,Weather
+Will there be thunderstorms tomorrow?,Weather
+How cold will it be tonight?,Weather
+Is there a heatwave coming?,Weather
+Whats the weather like in Paris?,Weather
+Is it going to be foggy tomorrow?,Weather
+Whats the high for today?,Weather
+Will it be chilly this evening?,Weather
+Should I bring a raincoat today?,Weather
+Whats the low temperature for tonight?,Weather
+Is there a weather advisory for today?,Weather
+Whats the weather going to be like this afternoon?,Weather
+Is it going to be warm tomorrow?,Weather
+Whats the wind speed today?,Weather
+Will it be clear skies tonight?,Weather
+Whats the temperature in Chicago right now?,Weather
+Is it going to rain tomorrow?,Weather
+Whats the chance of precipitation today?,Weather
+How hot is it going to be this afternoon?,Weather
+Is there a storm coming?,Weather
+Whats the weather forecast for the next three days?,Weather
+Is it going to be sunny all day?,Weather
+Whats the weather like in Sydney right now?,Weather
+Will it be humid today?,Weather
+Whats the temperature going to be like tomorrow?,Weather
+Is there a cold front moving in?,Weather
+Whats the forecast for this weekend?,Weather
+How hot is it outside?,Weather
+Is it going to snow today?,Weather
+Whats the weather like in Miami?,Weather
+Is it going to be windy tomorrow?,Weather
+Whats the weather for tomorrow?,Weather
+Will it be cold tomorrow morning?,Weather
+Whats the current weather in Los Angeles?,Weather
+Is it going to rain this weekend?,Weather
+Whats the temperature in Dallas right now?,Weather
+Is there a weather warning today?,Weather
+Whats the weather like this morning?,Weather
+Will it be foggy tonight?,Weather
+Whats the forecast for the next five days?,Weather
+Is it going to be hot tomorrow?,Weather
+Whats the temperature tonight?,Weather
+Will it be rainy this afternoon?,Weather
+Whats the weather like in Seattle right now?,Weather
+Is it going to be sunny next week?,Weather
+Whats the temperature in San Diego right now?,Weather
+Is there a chance of hail today?,Weather
+Whats the weather like this afternoon?,Weather
+Will it be cold tomorrow?,Weather
+Whats the weather like in Boston?,Weather
+Is it going to be warm this weekend?,Weather
+Whats the forecast for this evening?,Weather
+Will it be snowing tomorrow?,Weather
+Whats the temperature going to be like this weekend?,Weather
+Is it going to be windy this afternoon?,Weather
+Whats the weather like in Denver right now?,Weather
+Is it going to rain tonight?,Weather
+Whats the temperature in Austin right now?,Weather
+Is it going to be cloudy this weekend?,Weather
+Whats the weather forecast for next weekend?,Weather
+Is it going to be hot next week?,Weather
+Whats the temperature right now in Phoenix?,Weather
+Will it be rainy tomorrow?,Weather
+Whats the weather like in Las Vegas?,Weather
+Is it going to be foggy next week?,Weather
+Whats the forecast for next month?,Weather
+Is it going to be cold next week?,Weather
+Whats the weather like in Houston right now?,Weather
+Is it going to rain next month?,Weather
+Whats the temperature in Atlanta right now?,Weather
+Is there a weather alert for today?,Weather
+Turn off all the lights,IoT
+Set the thermostat to 72 degrees,IoT
+Turn on the ceiling fan,IoT
+Turn off the living room lights,IoT
+Increase the brightness in the office,IoT
+Set the porch lights to warm white,IoT
+Turn off the bedroom fan,IoT
+Turn on the bathroom heater,IoT
+Dim the lights to 20%,IoT
+Change the living room light color to red,IoT
+Turn on the kitchen exhaust fan,IoT
+Set the thermostat to cool mode,IoT
+Turn off all smart plugs,IoT
+Set the bedroom lights to purple,IoT
+Turn on the hallway lights,IoT
+Set the outdoor lights to blue,IoT
+Turn off the dining room lights,IoT
+Increase the thermostat temperature by 5 degrees,IoT
+Turn on the garage lights,IoT
+Dim the living room lights,IoT
+Set the bathroom lights to yellow,IoT
+Turn off the kitchen fan,IoT
+Turn on the bedroom air purifier,IoT
+Set the bedroom lights to orange,IoT
+Turn off the outdoor lights,IoT
+Set the living room lights to pink,IoT
+Turn on the bedroom humidifier,IoT
+Set the thermostat to heating mode,IoT
+Turn off the bathroom heater,IoT
+Dim the bedroom lights to 10%,IoT
+Change the kitchen light color to cyan,IoT
+Turn on the study lights,IoT
+Set the bedroom lights to cool white,IoT
+Turn off the hallway lights,IoT
+Set the living room lights to daylight,IoT
+Turn on the backyard lights,IoT
+Turn off the office lights,IoT
+Increase the light level in the bedroom,IoT
+Set the living room lights to teal,IoT
+Turn off the garage lights,IoT
+Set the thermostat to 68 degrees,IoT
+Turn on the patio lights,IoT
+Set the bedroom lights to magenta,IoT
+Turn off the porch lights,IoT
+Set the living room lights to soft white,IoT
+Turn on the laundry room lights,IoT
+Turn off the study lights,IoT
+Set the dining room lights to warm white,IoT
+Turn on the entryway lights,IoT
+Turn off the backyard lights,IoT
+Set the office lights to bright white,IoT
+Turn on the nursery lights,IoT
+Set the living room lights to amber,IoT
+Turn off the patio lights,IoT
+Set the bathroom lights to cool white,IoT
+Turn on the basement lights,IoT
+Turn off the entryway lights,IoT
+Set the kitchen lights to soft white,IoT
+Turn on the sunroom lights,IoT
+Turn off the nursery lights,IoT
+Set the living room lights to lime,IoT
+Turn on the front yard lights,IoT
+Turn off the basement lights,IoT
+Set the bedroom lights to coral,IoT
+Turn on the garage fan,IoT
+Turn off the sunroom lights,IoT
+Set the bathroom lights to daylight,IoT
+Turn on the attic lights,IoT
+Turn off the front yard lights,IoT
+Set the living room lights to mint,IoT
+Turn on the basement dehumidifier,IoT
+Turn off the attic lights,IoT
+Set the kitchen lights to bright white,IoT
+Turn on the bedroom fan,IoT
+Turn off the basement dehumidifier,IoT
+Set the living room lights to coral,IoT
+Turn on the kitchen lights,IoT
+Turn off the bedroom humidifier,IoT
+Set the dining room lights to cool white,IoT
+Turn on the bathroom fan,IoT
+Turn off the bedroom air purifier,IoT
+Set the hallway lights to soft white,IoT
+Turn on the office lights,IoT
+Turn off the bathroom fan,IoT
+Set the kitchen lights to daylight,IoT
+Turn on the living room lights,IoT
+What does ubiquitous mean?,Lexicon
+Define perplexed,Lexicon
+What are the synonyms of angry?,Lexicon
+Whats the antonym of calm?,Lexicon
+What does elated mean?,Lexicon
+Give me synonyms for brave,Lexicon
+Whats the antonym of cowardly?,Lexicon
+Define aberration,Lexicon
+What are the synonyms of intelligent?,Lexicon
+Whats the antonym of dull?,Lexicon
+What does quintessential mean?,Lexicon
+Define serendipity,Lexicon
+What are the synonyms of joyful?,Lexicon
+Whats the antonym of miserable?,Lexicon
+What does melancholy mean?,Lexicon
+Define empathy,Lexicon
+What are the synonyms of lazy?,Lexicon
+Whats the antonym of diligent?,Lexicon
+What does flabbergasted mean?,Lexicon
+Define ambiguous,Lexicon
+What are the synonyms of beautiful?,Lexicon
+Whats the antonym of ugly?,Lexicon
+What does ephemeral mean?,Lexicon
+Define gregarious,Lexicon
+Whats the antonym of sad?,Lexicon
+What does loquacious mean?,Lexicon
+Define ineffable,Lexicon
+What are the synonyms of strong?,Lexicon
+Whats the antonym of weak?,Lexicon
+What does obfuscate mean?,Lexicon
+Define lucid,Lexicon
+What are the synonyms of bright?,Lexicon
+Whats the antonym of dim?,Lexicon
+What does ebullient mean?,Lexicon
+Define cacophony,Lexicon
+What are the synonyms of calm?,Lexicon
+Whats the antonym of chaotic?,Lexicon
+What does vicissitude mean?,Lexicon
+Give me synonyms for fast,Lexicon
+Define perspicacious,Lexicon
+What are the synonyms of smart?,Lexicon
+Whats the antonym of ignorant?,Lexicon
+What does juxtapose mean?,Lexicon
+Define antithesis,Lexicon
+What are the synonyms of energetic?,Lexicon
+Whats the antonym of lethargic?,Lexicon
+What does vivacious mean?,Lexicon
+Define superfluous,Lexicon
+What are the synonyms of kind?,Lexicon
+Whats the antonym of cruel?,Lexicon
+What does auspicious mean?,Lexicon
+Define enigma,Lexicon
+What are the synonyms of gentle?,Lexicon
+Whats the antonym of harsh?,Lexicon
+What does ambivalent mean?,Lexicon
+Give me synonyms for rich,Lexicon
+Define succinct,Lexicon
+What are the synonyms of funny?,Lexicon
+Whats the antonym of serious?,Lexicon
+What does mellifluous mean?,Lexicon
+Define tenacious,Lexicon
+What are the synonyms of unique?,Lexicon
+Whats the antonym of common?,Lexicon
+What does plenitude mean?,Lexicon
+Define resilient,Lexicon
+What are the synonyms of rare?,Lexicon
+Whats the antonym of frequent?,Lexicon
+What does meticulous mean?,Lexicon
+Define pragmatic,Lexicon
+What are the synonyms of efficient?,Lexicon
+Whats the antonym of wasteful?,Lexicon
+What does synergy mean?,Lexicon
+Define bucolic,Lexicon
+What are the synonyms of quiet?,Lexicon
+Whats the antonym of noisy?,Lexicon
+What does capricious mean?,Lexicon
+Define epiphany,Lexicon
+What are the synonyms of warm?,Lexicon
+Whats the antonym of cold?,Lexicon
+What does nadir mean?,Lexicon
+Define zenith,Lexicon
+What are the synonyms of content?,Lexicon
+Whats the antonym of discontent?,Lexicon
+What does paradigm mean?,Lexicon
+Give me synonyms for important,Lexicon
+Define cryptic,Lexicon
+Explain the concept of dark matter,ScientificResearch
+Explain the significance of the Higgs boson,ScientificResearch
+Whats the latest research on renewable energy technology?,News
+What are the current trends in bioinformatics?,News
+Explain the current theories in astrophysics,News
+Whats the latest research on renewable energy policy?,News
+What are the current trends in machine learning?,News
+Tell me about the advancements in nanomedicine,News
+Explain the new findings in evolutionary psychology,News
+Whats the latest in AI-driven drug discovery?,News
+What are the recent advancements in bioengineering?,News
+Summarize the research on renewable energy innovation,News
+Tell me about the new discoveries in theoretical physics,News
+Explain the significance of the recent research on dark energy,News
+Whats the latest research on AI and machine learning?,News
+What are the current trends in genomic research?,News
+Tell me about the advancements in neuroscience technology,News
+Explain the new theories in biophysics,News
+Whats the latest research on renewable energy efficiency?,News
+What are the recent findings in cellular biology?,News
+Summarize the advancements in robotics technology,News
+Tell me about the new developments in climate science,News
+Explain the current research on AI ethics and bias,News
+Whats the latest in cancer treatment research?,News
+What are the new studies in synthetic biology?,News
+Tell me about the advancements in renewable energy infrastructure,News
+Explain the significance of the latest research on gravitational waves,News
+Whats the current understanding of consciousness?,News
+What are the recent discoveries in oceanography?,News
+Summarize the advancements in neurotechnology,News
+Tell me about the new developments in clean energy,News
+Explain the current theories in molecular physics,News
+Whats the latest research on AI and robotics?,News
+What are the current trends in environmental sustainability?,News
+Tell me about the advancements in biochemistry,News
+Explain the new findings in developmental biology,News
+Whats the latest in renewable energy research and development?,News
+What are the recent advancements in space science?,News
+Summarize the research on renewable energy storage solutions,News
+Tell me about the new discoveries in genetic research,News
+Explain the significance of the latest research on brain plasticity,News
+How do you build an electromagnetic generator?,ScientificResearch
+What is the melting point of silica?,ScientificResearch
+How does quantum entanglement work?,ScientificResearch
+What are the steps to synthesize aspirin?,ScientificResearch
+How is CRISPR used in gene editing?,ScientificResearch
+What is the process of photosynthesis?,ScientificResearch
+How can you measure the speed of light?,ScientificResearch
+What are the applications of nanotechnology?,ScientificResearch
+How does a nuclear reactor generate power?,ScientificResearch
+What are the main theories of dark matter?,ScientificResearch
+How do vaccines work?,ScientificResearch
+What is the principle of quantum superposition?,ScientificResearch
+How do you calculate the gravitational force between two masses?,ScientificResearch
+What is the function of mitochondria in cells?,ScientificResearch
+How is DNA sequenced?,ScientificResearch
+What is the role of enzymes in biochemical reactions?,ScientificResearch
+How do you conduct a polymerase chain reaction ?,ScientificResearch
+What are the properties of graphene?,ScientificResearch
+How do astronomers detect exoplanets?,ScientificResearch
+What is the theory of general relativity?,ScientificResearch
+How does the human brain process information?,ScientificResearch
+What are the benefits of renewable energy sources?,ScientificResearch
+How do you determine the age of fossils?,ScientificResearch
+What is the function of chlorophyll in plants?,ScientificResearch
+How are black holes formed?,ScientificResearch
+What are the stages of mitosis?,ScientificResearch
+How does photosynthesis convert light energy into chemical energy?,ScientificResearch
+What is the principle of conservation of mass?,ScientificResearch
+How do you create a genetic clone?,ScientificResearch
+What are the effects of global warming on polar ice caps?,ScientificResearch
+How is artificial intelligence used in healthcare?,ScientificResearch
+What is the role of stem cells in regenerative medicine?,ScientificResearch
+How do scientists measure ocean salinity?,ScientificResearch
+What are the components of the human immune system?,ScientificResearch
+How does nuclear fusion occur in stars?,ScientificResearch
+What are the differences between classical and quantum physics?,ScientificResearch
+How do you grow crystals in a laboratory?,ScientificResearch
+What is the significance of the Higgs boson?,ScientificResearch
+How do you measure the pH of a solution?,ScientificResearch
+What are the environmental impacts of deforestation?,ScientificResearch
+How do antibiotics kill bacteria?,ScientificResearch
+What is the function of ribosomes in protein synthesis?,ScientificResearch
+How do you conduct an acid-base titration?,ScientificResearch
+What are the uses of superconductors?,ScientificResearch
+How is solar energy converted into electricity?,ScientificResearch
+What are the causes of biodiversity loss?,ScientificResearch
+How do you extract DNA from cells?,ScientificResearch
+What is the structure of a water molecule?,ScientificResearch
+How do you model climate change?,ScientificResearch
+What are the properties of a Bose-Einstein condensate?,ScientificResearch
+How do you determine the boiling point of a liquid?,ScientificResearch
+What are the effects of microplastics on marine life?,ScientificResearch
+How is carbon dioxide used in photosynthesis?,ScientificResearch
+What are the principles of evolutionary biology?,ScientificResearch
+How does a mass spectrometer work?,ScientificResearch
+What is the role of neurotransmitters in the brain?,ScientificResearch
+How do you measure the speed of sound?,ScientificResearch
+What are the different types of renewable energy?,ScientificResearch
+How do you create a chemical reaction?,ScientificResearch
+What is the function of the heart in the circulatory system?,ScientificResearch
+How do you determine the density of an object?,ScientificResearch
+What are the effects of acid rain on the environment?,ScientificResearch
+How do you use a microscope to view cells?,ScientificResearch
+What is the process of natural selection?,ScientificResearch
+How do scientists predict earthquakes?,ScientificResearch
+What are the stages of the water cycle?,ScientificResearch
+How do you calculate kinetic energy?,ScientificResearch
+What are the causes of genetic mutations?,ScientificResearch
+How does a photovoltaic cell work?,ScientificResearch
+What is the function of the liver in the human body?,ScientificResearch
+How do you conduct a chromatography experiment?,ScientificResearch
+What are the impacts of plastic pollution on the environment?,ScientificResearch
+How do you calculate the molar mass of a compound?,ScientificResearch
+What are the properties of noble gases?,ScientificResearch
+How do you measure electrical resistance?,ScientificResearch
+What are the differences between prokaryotic and eukaryotic cells?,ScientificResearch
+How does the circulatory system work?,ScientificResearch
+What are the effects of greenhouse gases on climate change?,ScientificResearch
+How do you synthesize a polymer?,ScientificResearch
+What is the role of ATP in cellular respiration?,ScientificResearch
+How do you determine the half-life of a radioactive isotope?,ScientificResearch
+What are the benefits of genetic engineering?,ScientificResearch
+How do you measure the acidity of a solution?,ScientificResearch
+What are the different types of chemical bonds?,ScientificResearch
+How do you calculate the speed of an object?,ScientificResearch
+What are the causes and effects of soil erosion?,ScientificResearch
+How do you use a spectrophotometer?,ScientificResearch
+What is the function of the pancreas in the digestive system?,ScientificResearch
+How do you isolate a pure culture of bacteria?,ScientificResearch
+What are the properties of acids and bases?,ScientificResearch
+How do you determine the solubility of a substance?,ScientificResearch
+What are the effects of radiation on living organisms?,ScientificResearch
+How do you calculate the force of an object?,ScientificResearch
+What is the function of DNA in heredity?,ScientificResearch
+How do you conduct an experiment to test a hypothesis?,ScientificResearch
+What are the different phases of the moon?,ScientificResearch
+How do you measure the concentration of a solution?,ScientificResearch
+What are the impacts of air pollution on human health?,ScientificResearch
+How do you create a model of the solar system?,ScientificResearch
+What is the function of chloroplasts in plant cells?,ScientificResearch
+How do you determine the refractive index of a material?,ScientificResearch
+What are the causes of coral bleaching?,ScientificResearch
+How do you conduct a chemical titration?,ScientificResearch
+What are the properties of transition metals?,ScientificResearch
+How do you measure the hardness of a mineral?,ScientificResearch
+What are the effects of global warming on weather patterns?,ScientificResearch
+How do you create a computer model of a molecule?,ScientificResearch
+What is the function of the kidneys in the excretory system?,ScientificResearch
+How do you determine the rate of a chemical reaction?,ScientificResearch
+What are the principles of quantum mechanics?,ScientificResearch
+How do you measure the wavelength of light?,ScientificResearch
+What are the different types of ecosystems?,ScientificResearch
+How do you calculate the potential energy of an object?,ScientificResearch
+What are the effects of water pollution on aquatic life?,ScientificResearch
+How do you create a genetic map?,ScientificResearch
+What is the function of hemoglobin in blood?,ScientificResearch
+How do you determine the purity of a substance?,ScientificResearch
+What are the benefits of biodiversity?,ScientificResearch
+How do you measure the viscosity of a liquid?,ScientificResearch
+What are the properties of ionic compounds?,ScientificResearch
+How do you calculate the acceleration of an object?,ScientificResearch
+What are the impacts of deforestation on biodiversity?,ScientificResearch
+How do you use a centrifuge to separate mixtures?,ScientificResearch
+What is the function of antibodies in the immune system?,ScientificResearch
+How do you isolate and identify proteins?,ScientificResearch
+What are the different types of intermolecular forces?,ScientificResearch
+How do you measure the thermal conductivity of a material?,ScientificResearch
+What are the causes and effects of acid rain?,ScientificResearch
+How do you synthesize organic compounds?,ScientificResearch
+What is the role of lipids in cellular membranes?,ScientificResearch
+How do you conduct a gel electrophoresis experiment?,ScientificResearch
+What are the different types of cell division?,ScientificResearch
+How do you measure the intensity of light?,ScientificResearch
+What are the effects of heavy metals on human health?,ScientificResearch
+How do you create a phylogenetic tree?,ScientificResearch
+What is the function of neurons in the nervous system?,ScientificResearch
+How do you determine the specific heat capacity of a substance?,ScientificResearch
+What are the properties of covalent compounds?,ScientificResearch
+How do you calculate the work done by a force?,ScientificResearch
+What are the impacts of urbanization on the environment?,ScientificResearch
+How do you use a mass spectrometer to identify compounds?,ScientificResearch
+What is the role of hormones in the endocrine system?,ScientificResearch
+How do you extract and purify RNA?,ScientificResearch
+What are the principles of thermodynamics?,ScientificResearch
+How do you measure the surface tension of a liquid?,ScientificResearch
+What are the effects of pesticides on ecosystems?,ScientificResearch
+How do you create a chemical equilibrium?,ScientificResearch
+What is the function of nucleic acids in cells?,ScientificResearch
+How do you conduct a spectrophotometric analysis?,ScientificResearch
+What are the different types of chemical reactions?,ScientificResearch
+How do you measure the electrical conductivity of a material?,ScientificResearch
+What are the causes and effects of ocean acidification?,ScientificResearch
+How do you synthesize inorganic compounds?,ScientificResearch
+What is the role of carbohydrates in energy metabolism?,ScientificResearch
+How do you conduct a protein assay?,ScientificResearch
+What are the different types of genetic inheritance?,ScientificResearch
+How do you measure the heat of combustion of a substance?,ScientificResearch
+What are the properties of metallic compounds?,ScientificResearch
+How do you calculate the mechanical advantage of a machine?,ScientificResearch
+What are the impacts of climate change on agriculture?,ScientificResearch
+How do you use a calorimeter to measure heat changes?,ScientificResearch
+What is the function of enzymes in metabolism?,ScientificResearch
+How do you isolate and analyze lipids?,ScientificResearch
+What are the principles of molecular biology?,ScientificResearch
+How do you measure the boiling point of a liquid?,ScientificResearch
+What are the effects of endocrine disruptors on human health?,ScientificResearch
+How do you create a DNA fingerprint?,ScientificResearch
+What is the function of the respiratory system?,ScientificResearch
+How do you determine the optical rotation of a compound?,ScientificResearch
+What are the properties of alkanes?,ScientificResearch
+How do you calculate the enthalpy change of a reaction?,ScientificResearch
+What are the impacts of mining on the environment?,ScientificResearch
+How do you use chromatography to separate mixtures?,ScientificResearch
+What is the role of vitamins in human health?,ScientificResearch
+How do you extract and purify proteins?,ScientificResearch
+What are the principles of ecology?,ScientificResearch
+How do you measure the hardness of a material?,ScientificResearch
+What are the effects of air pollution on ecosystems?,ScientificResearch
+How do you create a population model?,ScientificResearch
+What is the function of the skeletal system?,ScientificResearch
+How do you determine the freezing point of a liquid?,ScientificResearch
+What are the properties of alkenes?,ScientificResearch
+How do you calculate the Gibbs free energy change?,ScientificResearch
+What are the impacts of overfishing on marine ecosystems?,ScientificResearch
+How do you use electrophoresis to analyze DNA?,ScientificResearch
+What is the role of minerals in nutrition?,ScientificResearch
+How do you conduct a cell culture experiment?,ScientificResearch
+What are the principles of genetics?,ScientificResearch
+How do you measure the tensile strength of a material?,ScientificResearch
+What are the effects of habitat loss on wildlife?,ScientificResearch
+How do you create a mathematical model of a biological system?,ScientificResearch
+What is the function of the muscular system?,ScientificResearch
+How do you determine the refractive index of a solution?,ScientificResearch
+What are the properties of alkynes?,ScientificResearch
+How do you calculate the entropy change of a process?,ScientificResearch
+What are the impacts of oil spills on the environment?,ScientificResearch
+How do you use spectroscopy to identify compounds?,ScientificResearch
+What is the role of antioxidants in the body?,ScientificResearch
+How do you extract and analyze nucleic acids?,ScientificResearch
+What are the principles of biotechnology?,ScientificResearch
+How do you measure the density of a gas?,ScientificResearch
+What are the effects of invasive species on ecosystems?,ScientificResearch
+How do you create a genetic map of an organism?,ScientificResearch
+What is the function of the endocrine system?,ScientificResearch
+How do you determine the viscosity of a liquid?,ScientificResearch
+What are the properties of aromatic compounds?,ScientificResearch
+How do you calculate the rate of a chemical reaction?,ScientificResearch
+What are the impacts of eutrophication on aquatic systems?,ScientificResearch
+How do you use immunoassays to detect proteins?,ScientificResearch
+What is the role of lipids in the body?,ScientificResearch
+How do you conduct a fermentation experiment?,ScientificResearch
+What are the principles of biochemistry?,ScientificResearch
+How do you measure the electrical potential of a cell?,ScientificResearch
+What are the effects of climate change on biodiversity?,ScientificResearch
+How do you create a phylogenetic tree of species?,ScientificResearch
+What is the function of the digestive system?,ScientificResearch
+How do you determine the solubility of a compound?,ScientificResearch
+What are the properties of ethers?,ScientificResearch
+How do you calculate the equilibrium constant of a reaction?,ScientificResearch
+What are the impacts of agricultural runoff on water quality?,ScientificResearch
+How do you use gel electrophoresis to separate DNA?,ScientificResearch
+What is the role of proteins in cellular functions?,ScientificResearch
+How do you isolate and purify DNA?,ScientificResearch
+What are the principles of immunology?,ScientificResearch
+How do you measure the thermal conductivity of a solid?,ScientificResearch
+What are the effects of ocean acidification on marine life?,ScientificResearch
+How do you create a population genetics model?,ScientificResearch
+What is the function of the circulatory system?,ScientificResearch
+How do you determine the melting point of a solid?,ScientificResearch
+What are the properties of alcohols?,ScientificResearch
+How do you calculate the activation energy of a reaction?,ScientificResearch
+What are the impacts of habitat fragmentation on wildlife?,ScientificResearch
+How do you use fluorescence microscopy to study cells?,ScientificResearch
+What is the role of carbohydrates in the body?,ScientificResearch
+How do you conduct a PCR experiment?,ScientificResearch
+What are the principles of cell biology?,ScientificResearch
+How do you measure the specific heat capacity of a material?,ScientificResearch
+What are the effects of noise pollution on human health?,ScientificResearch
+How do you create a climate model?,ScientificResearch
+What is the function of the nervous system?,ScientificResearch
+How do you determine the concentration of a solution?,ScientificResearch
+What are the properties of ketones?,ScientificResearch
+How do you calculate the pH of a solution?,ScientificResearch
+What are the impacts of chemical pollution on the environment?,ScientificResearch
+How do you use HPLC to separate and analyze compounds?,ScientificResearch
+What is the role of nucleic acids in the body?,ScientificResearch
+How do you isolate and purify proteins from cells?,ScientificResearch
+What are the principles of microbiology?,ScientificResearch
+How do you measure the optical density of a solution?,ScientificResearch
+What are the effects of light pollution on ecosystems?,ScientificResearch
+How do you create a genetic linkage map?,ScientificResearch
+What is the function of the integumentary system?,ScientificResearch
+What are the properties of amines?,ScientificResearch
+How do you calculate the standard enthalpy change of a reaction?,ScientificResearch
+What are the impacts of thermal pollution on aquatic systems?,ScientificResearch
+How do you use mass spectrometry to analyze proteins?,ScientificResearch
+What is the role of vitamins in the body?,ScientificResearch
+How do you conduct a protein electrophoresis experiment?,ScientificResearch
+What are the principles of molecular genetics?,ScientificResearch
+How do you measure the refractive index of a liquid?,ScientificResearch
+What are the effects of heavy metal contamination on the environment?,ScientificResearch
+How do you create a model of genetic drift?,ScientificResearch
+How do you determine the heat of fusion of a substance?,ScientificResearch
+What are the properties of carboxylic acids?,ScientificResearch
+How do you calculate the entropy change of a system?,ScientificResearch
+What are the impacts of industrial waste on the environment?,ScientificResearch
+How do you use UV-Vis spectroscopy to analyze compounds?,ScientificResearch
+What is the role of minerals in the body?,ScientificResearch
+How do you isolate and analyze RNA from cells?,ScientificResearch
+What are the principles of pharmacology?,ScientificResearch
+How do you measure the surface area of a solid?,ScientificResearch
+What are the effects of nutrient pollution on aquatic ecosystems?,ScientificResearch
+How do you create a model of natural selection?,ScientificResearch
+What is the function of the lymphatic system?,ScientificResearch
+How do you determine the specific rotation of a chiral compound?,ScientificResearch
+What are the properties of esters?,ScientificResearch
+How do you calculate the free energy change of a reaction?,ScientificResearch
+What are the impacts of plastic pollution on marine environments?,ScientificResearch
+How do you use IR spectroscopy to identify functional groups?,ScientificResearch
+How do you conduct a cell fractionation experiment?,ScientificResearch
+What are the principles of toxicology?,ScientificResearch
+How do you measure the concentration of ions in a solution?,ScientificResearch
+What are the effects of mercury contamination on human health?,ScientificResearch
+How do you create a model of population dynamics?,ScientificResearch
+What is the function of the urinary system?,ScientificResearch
+How do you determine the melting point of an alloy?,ScientificResearch
+What are the properties of aldehydes?,ScientificResearch
+What are the impacts of oil spills on marine ecosystems?,ScientificResearch
+How do you use NMR spectroscopy to analyze molecules?,ScientificResearch
+What is the role of hormones in the body?,ScientificResearch
+How do you conduct a lipid extraction experiment?,ScientificResearch
+What are the principles of developmental biology?,ScientificResearch
+How do you measure the absorbance of a solution?,ScientificResearch
+What are the effects of pesticides on human health?,ScientificResearch
+How do you create a model of gene flow?,ScientificResearch
+What is the function of the reproductive system?,ScientificResearch
+How do you determine the boiling point of a mixture?,ScientificResearch
+What are the properties of hydrocarbons?,ScientificResearch
+How do you calculate the molarity of a solution?,ScientificResearch
+What are the impacts of deforestation on the carbon cycle?,ScientificResearch
+How do you use X-ray crystallography to determine molecular structure?,ScientificResearch
+What is the role of enzymes in metabolism?,ScientificResearch
+How do you isolate and analyze metabolites?,ScientificResearch
+What are the principles of virology?,ScientificResearch
+How do you measure the osmotic pressure of a solution?,ScientificResearch
+What are the effects of phthalates on human health?,ScientificResearch
+How do you create a model of ecosystem interactions?,ScientificResearch
+How do you determine the refractive index of a polymer?,ScientificResearch
+What are the properties of phenols?,ScientificResearch
+How do you calculate the dilution factor of a solution?,ScientificResearch
+What are the impacts of urbanization on carbon emissions?,ScientificResearch
+How do you use GC-MS to analyze organic compounds?,ScientificResearch
+What is the role of coenzymes in biochemical reactions?,ScientificResearch
+How do you conduct a cell viability assay?,ScientificResearch
+What are the principles of endocrinology?,ScientificResearch
+How do you measure the pKa of an acid?,ScientificResearch
+What are the effects of lead poisoning on human health?,ScientificResearch
+How do you create a model of biochemical pathways?,ScientificResearch
+How do you determine the thermal stability of a compound?,ScientificResearch
+What are the properties of carboxylic acid derivatives?,ScientificResearch
+How do you calculate the partial pressure of a gas?,ScientificResearch
+What are the impacts of agricultural runoff on freshwater systems?,ScientificResearch
+How do you use capillary electrophoresis to separate biomolecules?,ScientificResearch
+What is the role of trace elements in nutrition?,ScientificResearch
+How do you isolate and characterize peptides?,ScientificResearch
+What are the principles of molecular evolution?,ScientificResearch
+How do you measure the concentration of glucose in blood?,ScientificResearch
+What are the effects of bisphenol A  on human health?,ScientificResearch
+How do you create a model of enzyme kinetics?,ScientificResearch
+How do you determine the crystal structure of a solid?,ScientificResearch
+What are the properties of aromatic hydrocarbons?,ScientificResearch
+How do you calculate the molal concentration of a solution?,ScientificResearch
+What are the impacts of fossil fuel combustion on climate?,ScientificResearch
+How do you use differential scanning calorimetry ?,ScientificResearch
+What is the role of neurotransmitters in the nervous system?,ScientificResearch
+How do you conduct a cytotoxicity assay?,ScientificResearch
+How do you measure the optical density of a suspension?,ScientificResearch
+What are the effects of dioxins on human health?,ScientificResearch
+How do you create a model of neural networks?,ScientificResearch
+How do you determine the specific gravity of a liquid?,ScientificResearch
+What are the properties of heterocyclic compounds?,ScientificResearch
+How do you calculate the osmolarity of a solution?,ScientificResearch
+What are the impacts of pesticide use on pollinators?,ScientificResearch
+How do you use atomic absorption spectroscopy ?,ScientificResearch
+What is the role of membrane proteins in cell function?,ScientificResearch
+How do you isolate and quantify RNA?,ScientificResearch
+What are the principles of gene expression regulation?,ScientificResearch
+How do you measure the viscosity of a polymer solution?,ScientificResearch
+What are the effects of particulate matter on respiratory health?,ScientificResearch
+How do you create a model of protein folding?,ScientificResearch
+How do you determine the surface area of nanoparticles?,ScientificResearch
+What are the properties of organometallic compounds?,ScientificResearch
+How do you calculate the vapor pressure of a liquid?,ScientificResearch
+What are the impacts of ocean warming on coral reefs?,ScientificResearch
+How do you use inductively coupled plasma mass spectrometry ?,ScientificResearch
+What is the role of epigenetics in gene regulation?,ScientificResearch
+How do you conduct a fluorescence spectroscopy experiment?,ScientificResearch
+What are the principles of metabolic pathways?,ScientificResearch
+How do you measure the zeta potential of colloids?,ScientificResearch
+What are the effects of microplastics on marine organisms?,ScientificResearch
+How do you create a model of cell signaling pathways?,ScientificResearch
+How do you determine the critical micelle concentration ?,ScientificResearch
+What are the properties of polycyclic aromatic hydrocarbons ?,ScientificResearch
+How do you calculate the freezing point depression of a solution?,ScientificResearch
+What are the impacts of hydraulic fracturing on groundwater?,ScientificResearch
+How do you use X-ray photoelectron spectroscopy ?,ScientificResearch
+What is the role of microRNAs in gene expression?,ScientificResearch
+How do you isolate and analyze secondary metabolites?,ScientificResearch
+What are the principles of synthetic biology?,ScientificResearch
+How do you measure the thermal expansion of a material?,ScientificResearch
+What are the effects of ultraviolet radiation on DNA?,ScientificResearch
+How do you create a model of population genetics?,ScientificResearch
+What is the function of the excretory system?,ScientificResearch
+How do you determine the ionization energy of an element?,ScientificResearch
+What are the properties of coordination compounds?,ScientificResearch
+How do you calculate the rate constant of a reaction?,ScientificResearch
+What are the impacts of ocean acidification on shellfish?,ScientificResearch
+How do you use surface-enhanced Raman spectroscopy ?,ScientificResearch
+What is the role of circadian rhythms in biology?,ScientificResearch
+How do you conduct a western blot experiment?,ScientificResearch
+What are the principles of structural biology?,ScientificResearch
+How do you measure the dielectric constant of a material?,ScientificResearch
+What are the effects of endocrine disruptors on wildlife?,ScientificResearch
+How do you create a model of microbial ecosystems?,ScientificResearch
+What is the function of the immune system?,ScientificResearch
+How do you determine the heat of vaporization of a liquid?,ScientificResearch
+What are the properties of fullerenes?,ScientificResearch
+How do you calculate the solubility product constant ?,ScientificResearch
+What are the impacts of antibiotic resistance on public health?,ScientificResearch
+How do you use matrix-assisted laser desorption/ionization ?,ScientificResearch
+What is the role of prions in neurodegenerative diseases?,ScientificResearch
+How do you isolate and characterize exosomes?,ScientificResearch
+What are the principles of proteomics?,ScientificResearch
+How do you measure the magnetization of a material?,ScientificResearch
+What are the effects of heavy metal ions on aquatic life?,ScientificResearch
+How do you create a model of carbon cycling?,ScientificResearch
+What is the function of the cardiovascular system?,ScientificResearch
+How do you determine the activation energy of a reaction?,ScientificResearch
+What are the properties of supramolecular assemblies?,ScientificResearch
+How do you calculate the partial molar volume of a solute?,ScientificResearch
+What are the impacts of invasive plant species on ecosystems?,ScientificResearch
+How do you use thermogravimetric analysis ?,ScientificResearch
+What is the role of the microbiome in human health?,ScientificResearch
+How do you conduct a differential scanning calorimetry  experiment?,ScientificResearch
+What are the principles of chemical kinetics?,ScientificResearch
+How do you measure the diffusion coefficient of a molecule?,ScientificResearch
+What are the effects of acid mine drainage on water quality?,ScientificResearch
+How do you create a model of trophic interactions?,ScientificResearch
+What is the function of the renal system?,ScientificResearch
+How do you determine the thermal conductivity of a liquid?,ScientificResearch
+What are the properties of photonic crystals?,ScientificResearch
+How do you calculate the enthalpy of formation?,ScientificResearch
+What are the impacts of monoculture farming on soil health?,ScientificResearch
+How do you use dynamic light scattering ?,ScientificResearch
+What is the role of biofilms in microbial communities?,ScientificResearch
+How do you isolate and analyze plasmids?,ScientificResearch
+What are the principles of systems biology?,ScientificResearch
+How do you measure the turbidity of a liquid?,ScientificResearch
+What are the effects of ozone depletion on UV radiation levels?,ScientificResearch
+How do you create a model of nitrogen cycling?,ScientificResearch
+How do you determine the boiling point of an azeotropic mixture?,ScientificResearch
+What are the properties of piezoelectric materials?,ScientificResearch
+How do you calculate the Gibbs free energy?,ScientificResearch
+What are the impacts of pesticide runoff on amphibians?,ScientificResearch
+How do you use Raman spectroscopy to analyze chemical compounds?,ScientificResearch
+What is the role of quorum sensing in bacteria?,ScientificResearch
+How do you conduct a high-throughput screening  experiment?,ScientificResearch
+What are the principles of metabolic engineering?,ScientificResearch
+How do you measure the electrical resistivity of a material?,ScientificResearch
+What are the effects of eutrophication on freshwater lakes?,ScientificResearch
+How do you create a model of phosphorus cycling?,ScientificResearch
+How do you determine the enthalpy of vaporization?,ScientificResearch
+What are the properties of carbon nanotubes?,ScientificResearch
+How do you calculate the rate of diffusion?,ScientificResearch
+What are the impacts of illegal wildlife trade on biodiversity?,ScientificResearch
+How do you use atomic force microscopy ?,ScientificResearch
+What is the role of lncRNAs in gene regulation?,ScientificResearch
+How do you isolate and characterize cell organelles?,ScientificResearch
+What are the principles of computational chemistry?,ScientificResearch
+How do you measure the fluorescence lifetime of a molecule?,ScientificResearch
+What are the effects of thermal pollution on river ecosystems?,ScientificResearch
+How do you create a model of ecosystem services?,ScientificResearch
+How do you determine the solubility of a gas in a liquid?,ScientificResearch
+What are the properties of liquid crystals?,ScientificResearch
+What are the impacts of climate change on polar bears?,ScientificResearch
+How do you use gas chromatography to separate compounds?,ScientificResearch
+What is the role of epigenetic modifications in cancer?,ScientificResearch
+How do you conduct a proteomics analysis?,ScientificResearch
+What are the principles of bioinformatics?,ScientificResearch
+How do you measure the thermal expansion coefficient?,ScientificResearch
+What are the effects of heavy metal pollution on soil?,ScientificResearch
+How do you create a model of gene regulation?,ScientificResearch
+How do you determine the pKa of a weak acid?,ScientificResearch
+What are the properties of biodegradable polymers?,ScientificResearch
+How do you calculate the partial pressure in a mixture of gases?,ScientificResearch
+What are the impacts of deforestation on the hydrological cycle?,ScientificResearch
+How do you use electron microscopy to study cell structures?,ScientificResearch
+What is the role of microtubules in cell division?,ScientificResearch
+How do you conduct a DNA sequencing experiment?,ScientificResearch
+What are the principles of genetic engineering?,ScientificResearch
+How do you measure the refractive index of a gas?,ScientificResearch
+What are the effects of ocean acidification on coral reefs?,ScientificResearch
+How do you create a model of ecosystem resilience?,ScientificResearch
+How do you determine the thermal stability of proteins?,ScientificResearch
+What are the properties of nanomaterials?,ScientificResearch
+How do you calculate the standard deviation of a dataset?,ScientificResearch
+What are the impacts of habitat destruction on biodiversity?,ScientificResearch
+How do you use high-performance liquid chromatography ?,ScientificResearch
+What is the role of histone modifications in gene expression?,ScientificResearch
+How do you conduct a western blot analysis?,ScientificResearch
+How do you measure the viscosity of a non-Newtonian fluid?,ScientificResearch
+What are the effects of microplastics on human health?,ScientificResearch
+How do you determine the specific heat capacity of a solid?,ScientificResearch
+What are the properties of thermoplastics?,ScientificResearch
+How do you calculate the enthalpy of formation of a compound?,ScientificResearch
+How do you use gel electrophoresis to separate proteins?,ScientificResearch
+What is the role of transcription factors in gene regulation?,ScientificResearch
+How do you isolate and characterize secondary metabolites?,ScientificResearch
+What are the principles of enzymology?,ScientificResearch
+What are the effects of pesticide residues on food safety?,ScientificResearch
+How do you create a model of ecosystem dynamics?,ScientificResearch
+What are the properties of polymers?,ScientificResearch
+How do you calculate the osmotic pressure of a solution?,ScientificResearch
+What are the impacts of plastic waste on the environment?,ScientificResearch
+How do you use spectroscopy to study molecular structure?,ScientificResearch
+What is the role of RNA interference in gene silencing?,ScientificResearch
+How do you conduct a northern blot experiment?,ScientificResearch
+What are the principles of molecular cloning?,ScientificResearch
+How do you measure the electrical conductivity of a solution?,ScientificResearch
+What are the effects of radiation on human health?,ScientificResearch
+How do you create a model of cellular metabolism?,ScientificResearch
+How do you determine the melting point of a mixture?,ScientificResearch
+What are the properties of composite materials?,ScientificResearch
+How do you calculate the molarity of an acid solution?,ScientificResearch
+What are the impacts of urban sprawl on ecosystems?,ScientificResearch
+How do you use mass spectrometry to analyze peptides?,ScientificResearch
+What is the role of ribozymes in RNA processing?,ScientificResearch
+How do you conduct a chromatin immunoprecipitation  assay?,ScientificResearch
+What are the principles of genomics?,ScientificResearch
+How do you measure the optical rotation of a chiral compound?,ScientificResearch
+What are the effects of heavy metals on plant growth?,ScientificResearch
+How do you create a model of gene expression?,ScientificResearch
+How do you determine the specific rotation of an enantiomer?,ScientificResearch
+What are the properties of inorganic compounds?,ScientificResearch
+How do you calculate the pH of a buffer solution?,ScientificResearch
+What are the impacts of climate change on sea levels?,ScientificResearch
+How do you use X-ray diffraction to analyze crystals?,ScientificResearch
+What is the role of chaperone proteins in protein folding?,ScientificResearch
+How do you conduct a fluorescence in situ hybridization  experiment?,ScientificResearch
+What are the principles of bioenergetics?,ScientificResearch
+How do you measure the refractive index of an oil?,ScientificResearch
+What are the effects of nutrient pollution on coral reefs?,ScientificResearch
+How do you create a model of DNA replication?,ScientificResearch
+How do you determine the solubility of an ionic compound?,ScientificResearch
+What are the properties of ionic liquids?,ScientificResearch
+How do you calculate the enthalpy change of combustion?,ScientificResearch
+How do you use liquid chromatography-mass spectrometry ?,ScientificResearch
+What is the role of telomeres in aging?,ScientificResearch
+How do you conduct a yeast two-hybrid screen?,ScientificResearch
+What are the principles of structural genomics?,ScientificResearch
+How do you measure the surface area of a porous material?,ScientificResearch
+What are the effects of acid rain on soil?,ScientificResearch
+How do you create a model of protein-protein interactions?,ScientificResearch
+How do you determine the optical activity of a compound?,ScientificResearch
+What are the properties of chiral molecules?,ScientificResearch
+How do you calculate the concentration of a solution using Beers Law?,ScientificResearch
+What are the impacts of deforestation on the water cycle?,ScientificResearch
+How do you use thermal analysis to study material properties?,ScientificResearch
+What is the role of proteasomes in protein degradation?,ScientificResearch
+How do you conduct a bisulfite sequencing experiment?,ScientificResearch
+How do you measure the concentration of a protein using a Bradford assay?,ScientificResearch
+What are the effects of salinity on plant growth?,ScientificResearch
+How do you create a model of cellular respiration?,ScientificResearch
+How do you determine the concentration of an analyte using titration?,ScientificResearch
+What are the properties of synthetic polymers?,ScientificResearch
+How do you calculate the standard enthalpy of formation?,ScientificResearch
+What are the impacts of industrial pollution on the environment?,ScientificResearch
+How do you use gel electrophoresis to analyze nucleic acids?,ScientificResearch
+What is the role of transcriptional regulators in gene expression?,ScientificResearch
+How do you conduct a microarray experiment?,ScientificResearch
+How do you measure the optical density of a bacterial culture?,ScientificResearch
+What are the effects of soil erosion on agriculture?,ScientificResearch
+How do you create a model of gene transcription?,ScientificResearch
+How do you determine the thermal conductivity of a metal?,ScientificResearch
+What are the properties of colloidal suspensions?,ScientificResearch
+How do you calculate the molar absorptivity of a compound?,ScientificResearch
+What are the impacts of climate change on marine ecosystems?,ScientificResearch
+How do you use capillary electrophoresis to analyze DNA?,ScientificResearch
+What is the role of mitochondria in cellular respiration?,ScientificResearch
+What are the principles of gene therapy?,ScientificResearch
+How do you measure the viscosity of a liquid using a viscometer?,ScientificResearch
+How do you create a model of enzyme catalysis?,ScientificResearch
+How do you determine the density of a solid?,ScientificResearch
+What are the properties of ceramic materials?,ScientificResearch
+How do you calculate the enthalpy change of a chemical reaction?,ScientificResearch
+How do you use nuclear magnetic resonance  spectroscopy to analyze compounds?,ScientificResearch
+What is the role of enzymes in digestion?,ScientificResearch
+How do you isolate and purify proteins from a cell lysate?,ScientificResearch
+What are the principles of pharmacokinetics?,ScientificResearch
+How do you measure the electrical conductivity of a metal?,ScientificResearch
+What are the effects of climate change on weather patterns?,ScientificResearch
+How do you create a model of metabolic pathways?,ScientificResearch
+How do you determine the molar mass of a compound?,ScientificResearch
+What are the properties of liquid metals?,ScientificResearch
+How do you calculate the pKa of a weak acid?,ScientificResearch
+What are the impacts of deforestation on carbon sequestration?,ScientificResearch
+How do you use UV-Vis spectroscopy to measure the concentration of a solution?,ScientificResearch
+What is the role of ribosomes in protein synthesis?,ScientificResearch
+How do you conduct a gene expression analysis using qPCR?,ScientificResearch
+What are the principles of molecular pharmacology?,ScientificResearch
+How do you measure the zeta potential of colloidal particles?,ScientificResearch
+What are the effects of plastic pollution on marine life?,ScientificResearch
+How do you create a model of photosynthesis?,ScientificResearch
+How do you determine the boiling point of a substance?,ScientificResearch
+How do you calculate the rate constant of a reaction using the Arrhenius equation?,ScientificResearch
+What are the impacts of agricultural practices on soil health?,ScientificResearch
+How do you use fluorescence microscopy to study cellular structures?,ScientificResearch
+What is the role of DNA polymerase in DNA replication?,ScientificResearch
+How do you conduct a CRISPR-Cas9 gene editing experiment?,ScientificResearch
+What are the principles of microbial genetics?,ScientificResearch
+How do you measure the turbidity of a water sample?,ScientificResearch
+What are the effects of endocrine disruptors on reproductive health?,ScientificResearch
+How do you create a model of cellular signal transduction?,ScientificResearch
+How do you determine the specific heat capacity of a liquid?,ScientificResearch
+How do you calculate the enthalpy change of neutralization?,ScientificResearch
+What are the impacts of fossil fuel combustion on air quality?,ScientificResearch
+How do you conduct a yeast two-hybrid experiment?,ScientificResearch
+How do you measure the concentration of glucose in a blood sample?,ScientificResearch
+What are the effects of noise pollution on wildlife?,ScientificResearch
+How do you create a model of gene regulation networks?,ScientificResearch
+How do you determine the melting point of an organic compound?,ScientificResearch
+What are the properties of silicate minerals?,ScientificResearch
+How do you calculate the osmotic potential of a solution?,ScientificResearch
+What are the impacts of climate change on polar ice caps?,ScientificResearch
+How do you use X-ray fluorescence  spectroscopy to analyze samples?,ScientificResearch
+What is the role of transcription factors in gene expression?,ScientificResearch
+How do you conduct a southern blot experiment?,ScientificResearch
+How do you measure the refractive index of a transparent material?,ScientificResearch
+What are the effects of heavy metal contamination on soil fertility?,ScientificResearch
+How do you create a model of population growth?,ScientificResearch
+What are the properties of coordination complexes?,ScientificResearch
+How do you calculate the rate of enzyme catalysis?,ScientificResearch
+How do you use Fourier transform infrared  spectroscopy to analyze samples?,ScientificResearch
+What is the role of prions in infectious diseases?,ScientificResearch
+How do you isolate and purify antibodies?,ScientificResearch
+What are the principles of microbial metabolism?,ScientificResearch
+How do you measure the concentration of ions in a water sample?,ScientificResearch
+What are the effects of soil salinity on plant growth?,ScientificResearch
+How do you create a model of nutrient cycling?,ScientificResearch
+How do you determine the solubility product constant ?,ScientificResearch
+What are the properties of amphiphilic molecules?,ScientificResearch
+How do you calculate the molar solubility of a compound?,ScientificResearch
+What are the impacts of microplastics on aquatic ecosystems?,ScientificResearch
+How do you use nuclear magnetic resonance  spectroscopy to study molecular structure?,ScientificResearch
+What is the role of microRNAs in post-transcriptional regulation?,ScientificResearch
+How do you conduct a cell culture experiment to study cell proliferation?,ScientificResearch
+What are the effects of air pollution on respiratory health?,ScientificResearch
+How do you create a model of trophic levels in an ecosystem?,ScientificResearch
+How do you determine the thermal conductivity of a composite material?,ScientificResearch
+How do you calculate the enthalpy change of a phase transition?,ScientificResearch
+What are the impacts of invasive species on native ecosystems?,ScientificResearch
+How do you use scanning electron microscopy  to study surface morphology?,ScientificResearch
+What is the role of telomerase in cellular aging?,ScientificResearch
+How do you isolate and analyze lipids from biological samples?,ScientificResearch
+What are the principles of biochemical thermodynamics?,ScientificResearch
+How do you measure the refractive index of a liquid using a refractometer?,ScientificResearch
+What are the effects of nutrient enrichment on algal blooms?,ScientificResearch
+How do you create a model of cellular metabolism pathways?,ScientificResearch
+How do you determine the solubility of a solute in a solvent?,ScientificResearch
+How do you calculate the pKa of a polyprotic acid?,ScientificResearch
+What are the impacts of land use change on biodiversity?,ScientificResearch
+How do you use differential scanning calorimetry  to study thermal properties?,ScientificResearch
+What is the role of ribonucleases in RNA processing?,ScientificResearch
+How do you conduct a CRISPR screen to identify gene function?,ScientificResearch
+What are the principles of gene expression analysis?,ScientificResearch
+What are the effects of toxic chemicals on endocrine function?,ScientificResearch
+How do you create a model of genetic variation in populations?,ScientificResearch
+How do you determine the melting point range of a crystalline solid?,ScientificResearch
+What are the properties of polymeric materials?,ScientificResearch
+How do you calculate the osmotic pressure of a biological solution?,ScientificResearch
+What are the impacts of habitat loss on endangered species?,ScientificResearch
+How do you use liquid chromatography-tandem mass spectrometry ?,ScientificResearch
+Whats the weather like today?,Weather
+Hows the weather in New York today?,Weather
+Do I need an umbrella today?,Weather
+Will it be sunny this afternoon?,Weather
+Whats the weather like in San Francisco?,Weather
+Should I wear a jacket today?,Weather
+Whats the weather forecast for tomorrow?,Weather
+Is it going to snow this weekend?,Weather
+Whats the current weather in London?,Weather
+Will it be cold tonight?,Weather
+Is it going to rain later today?,Weather
+Will it be cloudy today?,Weather
+Whats the current temperature in Chicago?,Weather
+Whats the humidity like today?,Weather
+Should I wear layers today?,Weather
+Is it going to be clear skies tomorrow?,Weather
+What was the rainfall amount yesterday?,Weather
+Do I need sunglasses today?,Weather
+Will it be breezy today?,Weather
+Is there a tornado warning?,Weather
+Whats the weather outlook for the week?,Weather
+Is it a good day for a picnic?,Weather
+Will it be rainy this weekend?,Weather
+How warm will it get today?,Weather
+Is it going to be humid tomorrow?,Weather
+Whats the best attire for todays weather?,Weather
+Is it going to be stormy tonight?,Weather
+Whats the weather forecast for Friday?,Weather
+Is it a good day for the beach?,Weather
+Will it be foggy this morning?,Weather
+Whats the weather like at the moment?,Weather
+How hot will it be tomorrow?,Weather
+Whats the temperature in San Francisco right now?,Weather
+Will it be cold this evening?,Weather
+Is there a heat advisory today?,Weather
+Whats the weather like in Orlando?,Weather
+Should I bring a sweater today?,Weather
+Is it going to be cloudy this afternoon?,Weather
+Whats the wind chill factor today?,Weather
+Will it be sunny this weekend?,Weather
+Whats the forecast for next Tuesday?,Weather
+Is it going to be hot this afternoon?,Weather
+Will it rain later this week?,Weather
+Whats the weather like in Toronto?,Weather
+Should I wear boots today?,Weather
+Is it going to be windy this weekend?,Weather
+Whats the current dew point?,Weather
+Will it be cool tomorrow?,Weather
+Whats the weather forecast for next month?,Weather
+Is it going to be clear tonight?,Weather
+Whats the temperature forecast for this week?,Weather
+Is it going to be rainy this evening?,Weather
+Whats the weather like in Vancouver?,Weather
+Should I wear a hat today?,Weather
+Is it going to be foggy this evening?,Weather
+Whats the current barometric pressure?,Weather
+Will it be warm tomorrow?,Weather
+Whats the weather outlook for next weekend?,Weather
+Is it going to be sunny next Monday?,Weather
+Whats the weather forecast for the rest of the day?,Weather
+Is it going to be rainy next week?,Weather
+Whats the temperature in Los Angeles right now?,Weather
+Is it going to be cloudy tomorrow?,Weather
+Whats the weather like in Montreal?,Weather
+Will it be cold next week?,Weather
+Whats the temperature in Miami right now?,Weather
+Is there a flood warning?,Weather
+Whats the current wind speed?,Weather
+Will it be humid next week?,Weather
+Whats the weather forecast for the next seven days?,Weather
+Whats the weather like in Chicago right now?,Weather
+Should I wear gloves today?,Weather
+Is it going to be clear skies this weekend?,Weather
+Whats the weather like in New York right now?,Weather
+Is it going to rain next Monday?,Weather
+Whats the temperature in Seattle right now?,Weather
+Will it be sunny next weekend?,Weather
+Whats the forecast for next Wednesday?,Weather
+Is it going to be hot this weekend?,Weather
+Will it rain tomorrow evening?,Weather
+Whats the weather like in Boston right now?,Weather
+Should I wear a scarf today?,Weather
+Is it going to be windy next week?,Weather
+Whats the current humidity?,Weather
+Will it be cool this weekend?,Weather
+Whats the weather forecast for next Friday?,Weather
+Is it going to be clear tomorrow?,Weather
+Whats the temperature forecast for next week?,Weather
+Is it going to rain next weekend?,Weather
+Whats the weather like in Dallas right now?,Weather
+Should I wear layers tomorrow?,Weather
+Is it going to be cloudy next week?,Weather
+Whats the weather like in Atlanta right now?,Weather
+Will it be cold next month?,Weather
+Whats the temperature in San Francisco at the moment?,Weather
+Is there a weather advisory for tomorrow?,Weather
+Whats the current wind direction?,Weather
+Will it be humid next weekend?,Weather
+Whats the weather forecast for the next ten days?,Weather
+Is it going to be warm this evening?,Weather
+Should I wear a raincoat tomorrow?,Weather
+Is it going to be clear skies next week?,Weather
+Whats the weather like in Los Angeles at the moment?,Weather
+Is it going to rain next Tuesday?,Weather
+Whats the temperature in Vancouver right now?,Weather
+Will it be sunny next Tuesday?,Weather
+Whats the forecast for next Thursday?,Weather
+Is it going to be hot next weekend?,Weather
+Will it rain tomorrow morning?,Weather
+Whats the weather like in Toronto right now?,Weather
+Should I wear a jacket tomorrow?,Weather
+Is it going to be windy next month?,Weather
+Whats the current dew point in New York?,Weather
+Will it be cool next week?,Weather
+Whats the weather forecast for next Sunday?,Weather
+Is it going to be clear next weekend?,Weather
+Whats the temperature forecast for next month?,Weather
+Is it going to rain next Thursday?,Weather
+Whats the weather like in Chicago at the moment?,Weather
+Should I wear gloves tomorrow?,Weather
+Is it going to be cloudy next weekend?,Weather
+Whats the weather like in Miami at the moment?,Weather
+Will it be cold this weekend?,Weather
+Whats the temperature in Seattle at the moment?,Weather
+Is there a winter storm warning?,Weather
+Whats the current wind gust speed?,Weather
+Will it be humid next month?,Weather
+Whats the weather forecast for the next two weeks?,Weather
+Is it going to be warm next weekend?,Weather
+Whats the weather like in Boston at the moment?,Weather
+Should I wear a scarf tomorrow?,Weather
+Is it going to be clear skies next month?,Weather
+Whats the weather like in Dallas at the moment?,Weather
+Is it going to rain next Friday?,Weather
+Whats the temperature in Atlanta at the moment?,Weather
+Will it be sunny next Wednesday?,Weather
+Whats the forecast for next Saturday?,Weather
+Is it going to be hot next month?,Weather
+Will it rain tomorrow night?,Weather
+Whats the weather like in Houston at the moment?,Weather
+Should I wear layers this weekend?,Weather
+Is it going to be windy next Tuesday?,Weather
+Whats the current barometric pressure in New York?,Weather
+Will it be cool next weekend?,Weather
+Whats the weather forecast for next Saturday?,Weather
+Is it going to be clear next week?,Weather
+Whats the temperature forecast for next Thursday?,Weather
+Is it going to rain next Saturday?,Weather
+Whats the weather like in Los Angeles right now?,Weather
+Should I wear a hat tomorrow?,Weather
+Is it going to be cloudy next month?,Weather
+Whats the weather like in Vancouver at the moment?,Weather
+Will it be cold next weekend?,Weather
+Is there a severe weather alert?,Weather
+Whats the current wind chill?,Weather
+Will it be humid next Thursday?,Weather
+Whats the weather forecast for the next fifteen days?,Weather
+Is it going to be warm next Tuesday?,Weather
+Whats the weather like in Toronto at the moment?,Weather
+Should I wear a raincoat this weekend?,Weather
+Is it going to be clear skies next Thursday?,Weather
+Is it going to rain next Wednesday?,Weather
+Whats the temperature in Miami at the moment?,Weather
+Will it be sunny next Friday?,Weather
+Whats the forecast for next Monday?,Weather
+Is it going to be hot next Tuesday?,Weather
+Will it rain the day after tomorrow?,Weather
+Should I wear a jacket this weekend?,Weather
+Is it going to be windy next Friday?,Weather
+Whats the current dew point in Boston?,Weather
+Will it be cool next Tuesday?,Weather
+Is it going to be clear next Thursday?,Weather
+Whats the temperature forecast for next Friday?,Weather
+Is it going to rain next Sunday?,Weather
+Should I wear gloves this weekend?,Weather
+Is it going to be cloudy next Tuesday?,Weather
+Will it be cold next Tuesday?,Weather
+Whats the temperature in Vancouver at the moment?,Weather
+Is there a high wind warning?,Weather
+Whats the current wind direction in Miami?,Weather
+Will it be humid next Friday?,Weather
+Whats the weather forecast for the next fourteen days?,Weather
+Is it going to be warm next Thursday?,Weather
+Is it going to be clear skies next Friday?,Weather
+Will it be sunny next Sunday?,Weather
+Whats the forecast for next Sunday?,Weather
+Is it going to be hot next Wednesday?,Weather
+Should I wear a hat this weekend?,Weather
+Is it going to be windy next Thursday?,Weather
+Whats the current humidity in Atlanta?,Weather
+Will it be cool next Thursday?,Weather
+Whats the weather forecast for the next week?,Weather
+Is it going to be clear next Friday?,Weather
+Whats the temperature forecast for next Wednesday?,Weather
+Should I wear a scarf this weekend?,Weather
+Is it going to be cloudy next Thursday?,Weather
+Whats the weather like in Miami right now?,Weather
+Will it be cold next Thursday?,Weather
+Whats the temperature in Chicago at the moment?,Weather
+Is there a weather advisory for next week?,Weather
+Whats the current wind speed in Los Angeles?,Weather
+Will it be humid next Wednesday?,Weather
+Whats the weather forecast for the next eight days?,Weather
+Is it going to be warm next Friday?,Weather
+Whats the weather like in Seattle at the moment?,Weather
+Is it going to be clear skies next Wednesday?,Weather
+Whats the weather like in New York at the moment?,Weather
+Whats the temperature in Houston at the moment?,Weather
+Will it be sunny next Saturday?,Weather
+Is it going to be hot next Friday?,Weather
+Whats the weather like in Vancouver right now?,Weather
+Is it going to be windy next Wednesday?,Weather
+Whats the current dew point in Dallas?,Weather
+Will it be cool next Friday?,Weather
+Is it going to be clear next Wednesday?,Weather
+Whats the temperature forecast for next Saturday?,Weather
+Is it going to be cloudy next Wednesday?,Weather
+Whats the weather like in San Francisco at the moment?,Weather
+Will it be cold next Wednesday?,Weather
+Whats the temperature in Boston at the moment?,Weather
+Is there a heat advisory for next week?,Weather
+Whats the current wind gust speed in Atlanta?,Weather
+Will it be humid next Saturday?,Weather
+Whats the weather forecast for the next nine days?,Weather
+Is it going to be warm next Wednesday?,Weather
+Is it going to be clear skies next Saturday?,Weather
+Will it be sunny next Monday?,Weather
+Is it going to be hot next Thursday?,Weather
+Is it going to be windy next Saturday?,Weather
+Whats the current barometric pressure in Dallas?,Weather
+Will it be cool next Wednesday?,Weather
+Whats the weather forecast for the next twelve days?,Weather
+Is it going to be clear next Saturday?,Weather
+Whats the temperature forecast for next Tuesday?,Weather
+Is it going to be cloudy next Saturday?,Weather
+Is there a flood watch?,Weather
+Whats the current wind direction in Houston?,Weather
+Will it be humid next Sunday?,Weather
+Whats the weather forecast for the next five days?,Weather
+Is it going to be warm next Saturday?,Weather
+Is it going to be clear skies next Sunday?,Weather
+Will it be sunny next Thursday?,Weather
+Is it going to be hot next Saturday?,Weather
+Whats the current dew point in Los Angeles?,Weather
+Will it be cool next Saturday?,Weather
+Whats the weather forecast for the next six days?,Weather
+Is it going to be clear next Sunday?,Weather
+Whats the temperature forecast for next Sunday?,Weather
+Is it going to be cloudy next Sunday?,Weather
+Is there a weather alert for next week?,Weather
+Whats the current wind speed in Vancouver?,Weather
+Whats the weather forecast for the next thirteen days?,Weather
+Is it going to be warm next Sunday?,Weather
+Whats the forecast for next Friday?,Weather
+Is it going to be hot next Sunday?,Weather
+Whats the weather like in San Francisco right now?,Weather
+Will it be cool next Sunday?,Weather
+Is it going to be clear next Monday?,Weather
+Whats the temperature forecast for next Monday?,Weather
+Is it going to be cloudy next Monday?,Weather
+Will it be cold next Friday?,Weather
+Is there a high wind warning for tomorrow?,Weather
+Whats the current wind gust speed in Los Angeles?,Weather
+Will it be humid next Monday?,Weather
+Whats the weather forecast for the next week and a half?,Weather
+Is it going to be warm next Monday?,Weather
+Is it going to be clear skies next Monday?,Weather
+Is it going to be hot next Monday?,Weather
+Is it going to be windy next Sunday?,Weather
+Whats the current barometric pressure in Atlanta?,Weather
+Will it be cool next Monday?,Weather
+Whats the weather forecast for the next sixteen days?,Weather
+Is it going to be clear next Tuesday?,Weather
+Whats the temperature in Dallas at the moment?,Weather
+Is there a weather advisory for next month?,Weather
+Whats the current wind speed in Houston?,Weather
+Will it be humid next Tuesday?,Weather
+Whats the weather forecast for the next four days?,Weather
+Is it going to be clear skies next Tuesday?,Weather
+Is there a winter storm advisory?,Weather
+Whats the current wind direction in New York?,Weather
+Whats the current dew point in Seattle?,Weather
+Is there a high wind advisory?,Weather
+Whats the current wind gust speed in Boston?,Weather
+Is there a flood warning for tomorrow?,Weather
+Whats the current barometric pressure in Los Angeles?,Weather
+Whats the temperature in New York at the moment?,Weather
+Is there a high wind watch for next week?,Weather
+Whats the weather forecast for the next seventeen days?,Weather
+Is it going to be windy next Monday?,Weather
+Whats the current barometric pressure in Miami?,Weather
+Whats the weather forecast for the next eighteen days?,Weather
+Will it be cold next Monday?,Weather
+Is there a winter weather advisory?,Weather
+Whats the current wind speed in Dallas?,Weather
+Whats the current dew point in Vancouver?,Weather
+Whats the weather forecast for the next eleven days?,Weather
+Is it going to be cloudy next Friday?,Weather
+Is there a severe thunderstorm warning?,Weather
+Whats the current wind direction in Dallas?,Weather
+Whats the weather forecast for the next nineteen days?,Weather
+Will it rain tomorrow afternoon?,Weather
+Whats the current barometric pressure in Houston?,Weather
+Is there a frost advisory?,Weather
+Whats the weather forecast for the next twenty days?,Weather
+Whats the weather forecast for the next twenty-one days?,Weather
+Is there a high wind warning for next month?,Weather
+Whats the current wind direction in Boston?,Weather
+Whats the weather forecast for the next twenty-two days?,Weather
+Whats the current dew point in Houston?,Weather
+Whats the weather forecast for the next twenty-three days?,Weather
+Is there a tornado watch?,Weather
+Whats the current wind gust speed in Dallas?,Weather
+Whats the weather forecast for the next twenty-four days?,Weather
+Whats the weather forecast for the next twenty-five days?,Weather
+Is there a wind advisory for next week?,Weather
+Whats the current wind speed in San Francisco?,Weather
+Whats the weather forecast for the next twenty-six days?,Weather
+Set the bedroom lights to 70% brightness,IoT
+Change the kitchen light color to blue,IoT
+Dim the bathroom lights to 30%,IoT
+Turn on the left side lamp in the bedroom,IoT
+Set the porch lights to red,IoT
+Increase the brightness of the office lights to 80%,IoT
+Turn off all the lights in the house,IoT
+Set the patio lights to green,IoT
+What are my updates,News
+why is the sky blue,ScientificResearch
+Change the living room lights to warm white,IoT
+Dim the sunroom lights to 20%,IoT
+Set the nursery lights to pink,IoT
+Turn on the dresser lamp in the master bedroom,IoT
+Increase the brightness of the study lights to 60%,IoT
+Change the string lights in the backyard to yellow,IoT
+Turn on the right side lamp in the living room,IoT
+Dim the closet lights to 10%,IoT
+Turn off the fireplace,IoT
+Set the kitchen lights to orange,IoT
+Turn on the dining room chandelier,IoT
+Set the bedroom lights to 50% brightness,IoT
+Change the color of the bathroom lights to purple,IoT
+Increase the brightness of the living room lights to 90%,IoT
+Set the patio lights to cyan,IoT
+Change the kitchen lights to daylight,IoT
+Dim the hallway lights to 15%,IoT
+Set the nursery lights to light blue,IoT
+Turn on the garage floodlights,IoT
+Set the basement lights to 40% brightness,IoT
+Turn off the bedroom nightstand lamp,IoT
+Change the string lights in the living room to red,IoT
+Turn on the fireplace,IoT
+Set the office lights to lavender,IoT
+Increase the brightness of the kitchen lights to 75%,IoT
+Turn off the study lamp,IoT
+Set the patio string lights to green,IoT
+Change the sunroom lights to pink,IoT
+Dim the dining room lights to 25%,IoT
+Turn on the bathroom mirror lights,IoT
+Turn off the nursery nightlight,IoT
+Increase the brightness of the basement lights to 50%,IoT
+Turn on the hallway sconces,IoT
+Set the office lights to white,IoT
+Change the patio lights to amber,IoT
+Dim the porch lights to 35%,IoT
+Turn off the garage workbench light,IoT
+Set the entryway lights to magenta,IoT
+Turn on the bathroom ceiling light,IoT
+Set the bedroom lights to 65% brightness,IoT
+Change the color of the kitchen lights to mint green,IoT
+Turn off the sunroom ceiling fan light,IoT
+Increase the brightness of the nursery lights to 85%,IoT
+Turn on the closet lights,IoT
+Set the living room string lights to blue,IoT
+Turn off the basement stairway light,IoT
+Change the bedroom lights to fuchsia,IoT
+Dim the study lights to 20%,IoT
+Turn on the fireplace lights,IoT
+Set the bathroom lights to sky blue,IoT
+Increase the brightness of the dining room lights to 90%,IoT
+Turn off the entryway chandelier,IoT
+Set the patio lights to violet,IoT
+Turn on the bedroom lamps,IoT
+Set the kitchen lights to 75% brightness,IoT
+Change the hallway lights to peach,IoT
+Dim the office lights to 10%,IoT
+Turn off the porch string lights,IoT
+Set the nursery lights to lime green,IoT
+Turn on the sunroom chandelier,IoT
+Set the basement lights to coral,IoT
+Turn off the garage string lights,IoT
+Change the bedroom lights to navy blue,IoT
+Dim the living room lights to 50%,IoT
+Turn on the bathroom nightlight,IoT
+Set the office lights to dark green,IoT
+Increase the brightness of the hallway lights to 80%,IoT
+Turn off the study ceiling light,IoT
+Set the porch lights to raspberry,IoT
+Turn on the patio string lights,IoT
+Set the kitchen lights to 60% brightness,IoT
+Change the color of the sunroom lights to lavender,IoT
+Dim the bedroom lamps to 30%,IoT
+Turn off the dining room ceiling light,IoT
+Set the nursery lights to periwinkle,IoT
+Turn on the garage ceiling light,IoT
+Set the living room lights to 85% brightness,IoT
+Change the office lights to cream,IoT
+Turn off the entryway sconces,IoT
+Increase the brightness of the porch lights to 70%,IoT
+Turn on the basement workbench light,IoT
+Set the hallway lights to pale yellow,IoT
+Turn off the bathroom mirror lights,IoT
+Set the bedroom lights to salmon,IoT
+Change the kitchen lights to honey,IoT
+Dim the sunroom lights to 45%,IoT
+Turn on the nursery nightlight,IoT
+Set the living room lamps to teal,IoT
+Turn off the patio chandelier,IoT
+Increase the brightness of the dining room lights to 95%,IoT
+Set the garage lights to ruby,IoT
+Change the basement lights to turquoise,IoT
+Dim the office lights to 35%,IoT
+Turn off the hallway ceiling light,IoT
+Set the porch lights to mint,IoT
+Turn on the string lights in the backyard,IoT
+Set the kitchen lights to 50% brightness,IoT
+Change the bathroom lights to burgundy,IoT
+Dim the bedroom lights to 40%,IoT
+Turn off the sunroom string lights,IoT
+Set the nursery lights to peach,IoT
+Set the living room lights to lemon yellow,IoT
+Change the office lights to ivory,IoT
+Turn off the patio string lights,IoT
+Increase the brightness of the hallway lights to 65%,IoT
+Turn on the basement stairway light,IoT
+Set the bathroom lights to navy,IoT
+Turn off the fireplace lights,IoT
+Set the bedroom lights to 90% brightness,IoT
+Change the kitchen lights to gold,IoT
+Dim the dining room lights to 60%,IoT
+Set the sunroom lights to rose,IoT
+Increase the brightness of the living room lights to 70%,IoT
+Turn on the porch chandelier,IoT
+Set the entryway lights to lavender,IoT
+Change the office lights to coral,IoT
+Dim the bedroom lamps to 20%,IoT
+Set the kitchen lights to 80% brightness,IoT
+Set the basement lights to emerald green,IoT
+Change the living room lights to aquamarine,IoT
+Dim the bathroom lights to 25%,IoT
+Turn off the sunroom ceiling light,IoT
+Set the nursery lights to cream,IoT
+Turn on the garage string lights,IoT
+Change the office lights to light pink,IoT
+Increase the brightness of the kitchen lights to 65%,IoT
+Turn on the dining room sconces,IoT
+Set the living room lights to peach,IoT
+Turn off the hallway nightlight,IoT
+Set the sunroom lights to teal,IoT
+Change the basement lights to mauve,IoT
+Dim the office lights to 50%,IoT
+Turn on the bathroom ceiling fan light,IoT
+Set the nursery lights to white,IoT
+Turn off the garage floodlights,IoT
+Set the bedroom lights to 85% brightness,IoT
+Change the color of the kitchen lights to amber,IoT
+Dim the dining room chandelier to 40%,IoT
+Turn on the porch string lights,IoT
+Set the entryway lights to dark blue,IoT
+Increase the brightness of the living room lamps to 90%,IoT
+Turn off the basement ceiling light,IoT
+Set the office lights to honey,IoT
+Change the bathroom lights to coral,IoT
+Dim the sunroom lights to 60%,IoT
+Turn on the nursery chandelier,IoT
+Set the garage lights to pink,IoT
+Turn off the patio sconces,IoT
+Set the bedroom lights to dark green,IoT
+Change the living room lights to salmon,IoT
+Dim the dining room lights to 30%,IoT
+Turn off the bathroom nightlight,IoT
+Set the sunroom lights to gold,IoT
+Set the basement lights to sky blue,IoT
+Change the office lights to fuchsia,IoT
+Dim the bedroom lights to 50%,IoT
+Set the kitchen lights to periwinkle,IoT
+Increase the brightness of the hallway lights to 85%,IoT
+Set the living room lights to turquoise,IoT
+Change the bathroom lights to navy blue,IoT
+Dim the office lights to 25%,IoT
+Turn off the nursery ceiling light,IoT
+Set the garage lights to amber,IoT
+Set the entryway lights to mint green,IoT
+Change the bedroom lights to lavender,IoT
+Dim the dining room chandelier to 70%,IoT
+Set the kitchen lights to white,IoT
+Increase the brightness of the living room lights to 95%,IoT
+Set the sunroom lights to emerald green,IoT
+Change the basement lights to cream,IoT
+Dim the office lights to 40%,IoT
+Set the nursery lights to lemon yellow,IoT
+Set the bedroom lights to gold,IoT
+Change the living room lights to ruby,IoT
+Dim the kitchen lights to 55%,IoT
+Set the entryway lights to pale blue,IoT
+Increase the brightness of the sunroom lights to 80%,IoT
+Turn off the porch ceiling light,IoT
+Set the basement lights to light pink,IoT
+Change the office lights to dark green,IoT
+Dim the bathroom lights to 45%,IoT
+Set the living room lights to raspberry,IoT
+Turn off the hallway sconces,IoT
+Increase the brightness of the bedroom lights to 75%,IoT
+Set the kitchen lights to mint,IoT
+Change the dining room lights to navy,IoT
+Dim the sunroom lights to 30%,IoT
+Set the basement lights to ivory,IoT
+Set the office lights to teal,IoT
+Change the bathroom lights to dark blue,IoT
+Turn on the kitchen ceiling light,IoT
+Increase the brightness of the hallway lights to 60%,IoT
+Turn on the bedroom chandelier,IoT
+Set the sunroom lights to light pink,IoT
+Change the basement lights to honey,IoT
+Dim the dining room lights to 35%,IoT
+Set the office lights to emerald green,IoT
+Turn on the porch ceiling light,IoT
+Change the kitchen lights to lemon yellow,IoT
+Dim the nursery lights to 40%,IoT
+Set the bedroom lights to lavender,IoT
+Turn off the entryway nightlight,IoT
+Increase the brightness of the basement lights to 65%,IoT
+Set the dining room lights to dark blue,IoT
+Change the office lights to raspberry,IoT
+Dim the bathroom lights to 20%,IoT
+Turn on the living room ceiling light,IoT
+Set the porch lights to sky blue,IoT
+Increase the brightness of the hallway lights to 75%,IoT
+Change the sunroom lights to cream,IoT
+Dim the basement lights to 45%,IoT
+Set the office lights to mint,IoT
+Change the bathroom lights to emerald green,IoT
+Dim the kitchen lights to 35%,IoT
+Set the entryway lights to light pink,IoT
+Turn off the porch sconces,IoT
+Increase the brightness of the sunroom lights to 90%,IoT
+Change the office lights to navy,IoT
+Dim the hallway lights to 20%,IoT
+Turn off the dining room chandelier,IoT
+Set the bathroom lights to lemon yellow,IoT
+Change the bedroom lights to gold,IoT
+Set the office lights to pale yellow,IoT
+Change the sunroom lights to dark blue,IoT
+Dim the basement lights to 50%,IoT
+Set the nursery lights to sky blue,IoT
+Set the kitchen lights to dark blue,IoT
+Increase the brightness of the living room lights to 80%,IoT
+Change the entryway lights to honey,IoT
+Dim the hallway lights to 25%,IoT
+Turn on the bedroom ceiling light,IoT
+Set the bathroom lights to emerald green,IoT
+Set the nursery lights to navy blue,IoT
+Increase the brightness of the sunroom lights to 70%,IoT
+Turn on the office ceiling light,IoT
+Dim the living room lights to 60%,IoT
+Turn on the patio sconces,IoT
+Set the hallway lights to light pink,IoT
+Change the nursery lights to dark green,IoT
+Set the living room lights to sky blue,IoT
+Turn off the porch chandelier,IoT
+Set the bathroom lights to mint green,IoT
+Turn on the office chandelier,IoT
+Change the basement lights to lemon yellow,IoT
+Turn on the entryway sconces,IoT
+Set the kitchen lights to coral,IoT
+Set the living room lights to ruby,IoT
+Increase the brightness of the bedroom lights to 85%,IoT
+Change the bathroom lights to light pink,IoT
+Dim the nursery lights to 45%,IoT
+Set the office lights to dark blue,IoT
+Set the entryway lights to mint,IoT
+Increase the brightness of the sunroom lights to 75%,IoT
+Turn on the basement ceiling light,IoT
+Change the kitchen lights to white,IoT
+Dim the dining room lights to 55%,IoT
+Turn on the bedroom nightlight,IoT
+Set the living room lights to lavender,IoT
+Increase the brightness of the office lights to 90%,IoT
+Dim the hallway lights to 40%,IoT
+Turn on the entryway chandelier,IoT
+Set the sunroom lights to coral,IoT
+Turn off the kitchen ceiling light,IoT
+Set the dining room lights to dark green,IoT
+Change the basement lights to lavender,IoT
+Dim the office lights to 30%,IoT
+Turn off the bedroom nightlight,IoT
+Set the nursery lights to dark blue,IoT
+Change the kitchen lights to coral,IoT
+Set the dining room lights to ruby,IoT
+Set the office lights to sky blue,IoT
+Increase the brightness of the entryway lights to 70%,IoT
+Change the bathroom lights to mint,IoT
+Dim the hallway lights to 35%,IoT
+Set the sunroom lights to dark green,IoT
+Set the nursery lights to lavender,IoT
+Increase the brightness of the living room lights to 85%,IoT
+Change the office lights to lemon yellow,IoT
+Dim the kitchen lights to 40%,IoT
+Change the hallway lights to mint green,IoT
+Dim the living room lights to 45%,IoT
+Set the dining room lights to lavender,IoT
+Turn off the office ceiling light,IoT
+Set the kitchen lights to ruby,IoT
+Increase the brightness of the entryway lights to 60%,IoT
+Change the sunroom lights to coral,IoT
+Set the bedroom lights to dark blue,IoT
+Increase the brightness of the office lights to 85%,IoT
+Change the dining room lights to mint green,IoT
+Dim the sunroom lights to 35%,IoT
+Set the kitchen lights to emerald green,IoT
+Increase the brightness of the hallway lights to 90%,IoT
+Change the living room lights to coral,IoT
+Set the office lights to lemon yellow,IoT
+Change the basement lights to dark blue,IoT
+Dim the entryway lights to 25%,IoT
+Set the hallway lights to emerald green,IoT
+Increase the brightness of the nursery lights to 70%,IoT
+Change the bedroom lights to lemon yellow,IoT
+Dim the bathroom lights to 35%,IoT
+Set the office lights to coral,IoT
+Set the entryway lights to dark green,IoT
+Change the basement lights to mint green,IoT
+Dim the hallway lights to 50%,IoT
+Set the dining room lights to lemon yellow,IoT
+Set the bathroom lights to coral,IoT
+Increase the brightness of the bedroom lights to 90%,IoT
+Change the kitchen lights to dark green,IoT
+Dim the living room lights to 30%,IoT
+Set the porch lights to mint green,IoT
+Increase the brightness of the nursery lights to 80%,IoT
+Change the dining room lights to dark blue,IoT
+Set the bathroom lights to dark green,IoT
+Change the entryway lights to mint green,IoT
+Dim the porch lights to 25%,IoT
+Turn off the living room ceiling light,IoT
+Set the kitchen lights to lemon yellow,IoT
+Increase the brightness of the office lights to 70%,IoT
+Change the bathroom lights to lavender,IoT
+Dim the hallway lights to 30%,IoT
+Set the porch lights to dark blue,IoT
+Set the bedroom lights to emerald green,IoT
+Increase the brightness of the entryway lights to 85%,IoT
+Change the living room lights to mint green,IoT
+Dim the office lights to 20%,IoT
+Set the nursery lights to dark green,IoT
+Increase the brightness of the bathroom lights to 75%,IoT
+Change the dining room lights to lemon yellow,IoT
+Set the sunroom lights to dark blue,IoT
+Set the hallway lights to mint green,IoT
+Change the office lights to emerald green,IoT
+Set the porch lights to lemon yellow,IoT
+Increase the brightness of the entryway lights to 90%,IoT
+Change the living room lights to dark green,IoT
+Set the hallway lights to lavender,IoT
+Change the nursery lights to lemon yellow,IoT
+Set the kitchen lights to dark green,IoT
+Set the living room lights to mint green,IoT
+Change the hallway lights to emerald green,IoT
+Dim the bedroom lights to 25%,IoT
+Set the nursery lights to coral,IoT
+Change the dining room lights to dark green,IoT
+Dim the basement lights to 35%,IoT
+Set the bedroom lights to lemon yellow,IoT
+Increase the brightness of the nursery lights to 65%,IoT
+Change the porch lights to coral,IoT
+Dim the entryway lights to 40%,IoT
+Set the basement lights to mint green,IoT
+Increase the brightness of the bathroom lights to 70%,IoT
+Change the bedroom lights to dark blue,IoT
+Set the sunroom lights to lemon yellow,IoT
+Increase the brightness of the nursery lights to 75%,IoT
+Set the basement lights to dark green,IoT
+Change the hallway lights to lemon yellow,IoT
+Dim the bedroom lights to 35%,IoT
+Set the office lights to mint green,IoT
+Change the basement lights to coral,IoT
+Change the porch lights to dark green,IoT
+Dim the entryway lights to 30%,IoT
+Set the nursery lights to mint green,IoT
+Increase the brightness of the basement lights to 75%,IoT
+Turn off the office chandelier,IoT
+Increase the brightness of the entryway lights to 65%,IoT
+Set the dining room lights to coral,IoT
+Increase the brightness of the kitchen lights to 70%,IoT
+Turn off the sunroom chandelier,IoT
+Increase the brightness of the basement lights to 90%,IoT
+Change the nursery lights to mint green,IoT
+Dim the bathroom lights to 40%,IoT
+Set the entryway lights to coral,IoT
+Increase the brightness of the office lights to 75%,IoT
+Change the basement lights to emerald green,IoT
+Dim the porch lights to 20%,IoT
+Set the entryway lights to lemon yellow,IoT
+Increase the brightness of the basement lights to 85%,IoT
+Dim the hallway lights to 45%,IoT
+Set the nursery lights to emerald green,IoT
+Change the entryway lights to dark green,IoT
+Set the basement lights to lemon yellow,IoT
+Change the nursery lights to coral,IoT
+Dim the bedroom lights to 20%,IoT
+Change the dining room lights to emerald green,IoT
+Set the hallway lights to coral,IoT
+Set the kitchen lights to mint green,IoT
+Dim the sunroom lights to 25%,IoT
+Increase the brightness of the bathroom lights to 85%,IoT
+Set the living room lights to emerald green,IoT
+Set the porch lights to coral,IoT
+Set the hallway lights to dark green,IoT
+Dim the entryway lights to 20%,IoT
+Change the hallway lights to dark green,IoT
+Set the porch lights to emerald green,IoT
+Set the hallway lights to lemon yellow,IoT
+Turn on the bathroom lights to 100% brightness,IoT
+Set the living room lights to sunset mode,IoT
+Dim the kitchen lights to 20%,IoT
+Change the bedroom lights to a soft pink,IoT
+Set the dining room chandelier to 50% brightness,IoT
+Increase the brightness of the nursery lights to 60%,IoT
+Turn on the porch lights to 80% brightness,IoT
+Set the hallway lights to daylight white,IoT
+Dim the sunroom lights to 10%,IoT
+Change the color of the bathroom lights to blue,IoT
+Set the living room lights to warm white,IoT
+Turn on the bedroom reading lamp,IoT
+Set the office lights to a cool white,IoT
+Dim the dining room lights to 40%,IoT
+Change the nursery lights to light green,IoT
+Set the hallway lights to 50% brightness,IoT
+Turn on the garage workbench light,IoT
+Change the bathroom lights to purple,IoT
+Set the living room lights to a soft yellow,IoT
+Dim the kitchen lights to 30%,IoT
+Increase the brightness of the bedroom lights to 80%,IoT
+Turn on the office desk lamp,IoT
+Set the dining room lights to a warm orange,IoT
+Change the nursery lights to a calming blue,IoT
+Turn off the porch floodlights,IoT
+Set the hallway lights to 75% brightness,IoT
+Dim the sunroom lights to 5%,IoT
+Increase the brightness of the garage lights to 100%,IoT
+Change the bathroom lights to red,IoT
+Set the living room lights to a cozy amber,IoT
+Turn on the kitchen island lights,IoT
+Set the bedroom lights to a serene lavender,IoT
+Dim the office lights to 15%,IoT
+Increase the brightness of the dining room lights to 85%,IoT
+Set the porch lights to green,IoT
+Change the hallway lights to teal,IoT
+Increase the brightness of the garage lights to 60%,IoT
+Set the bathroom lights to a pale blue,IoT
+Change the living room lights to magenta,IoT
+Dim the kitchen lights to 25%,IoT
+Turn on the bedroom nightstand lamp,IoT
+Set the office lights to an off-white,IoT
+Increase the brightness of the dining room chandelier to 90%,IoT
+Turn off the porch spotlights,IoT
+Change the nursery lights to yellow,IoT
+Set the hallway lights to 65% brightness,IoT
+Increase the brightness of the garage ceiling lights to 75%,IoT
+Set the living room lights to a cool blue,IoT
+Change the kitchen lights to bright white,IoT
+Dim the bedroom lights to 45%,IoT
+Turn on the office floor lamp,IoT
+Set the dining room lights to a deep red,IoT
+Increase the brightness of the nursery lights to 95%,IoT
+Change the porch lights to orange,IoT
+Set the hallway lights to a subtle pink,IoT
+Increase the brightness of the garage work lights to 85%,IoT
+Set the bathroom lights to a warm coral,IoT
+Change the living room lights to cyan,IoT
+Dim the kitchen lights to 60%,IoT
+Set the office lights to a neutral white,IoT
+Increase the brightness of the dining room pendant lights to 100%,IoT
+Turn off the porch pendant lights,IoT
+Change the nursery lights to a soft purple,IoT
+Set the hallway lights to 35% brightness,IoT
+Dim the sunroom lights to 50%,IoT
+Increase the brightness of the garage task lights to 65%,IoT
+Turn on the bathroom overhead light,IoT
+Set the living room lights to a mellow yellow,IoT
+Change the kitchen lights to green,IoT
+Dim the bedroom lights to 15%,IoT
+Turn on the office table lamp,IoT
+Set the dining room lights to a soft teal,IoT
+Increase the brightness of the nursery ceiling light to 85%,IoT
+Turn off the porch lanterns,IoT
+Change the hallway lights to amber,IoT
+Set the sunroom lights to a soothing blue,IoT
+Increase the brightness of the garage entry lights to 100%,IoT
+Turn on the bathroom sconce lights,IoT
+Set the living room lights to a subtle green,IoT
+Change the kitchen lights to orange,IoT
+Dim the bedroom lights to 55%,IoT
+Turn on the office track lighting,IoT
+Set the dining room lights to a bright white,IoT
+Increase the brightness of the nursery lamps to 75%,IoT
+Turn off the porch fairy lights,IoT
+Change the hallway lights to rose,IoT
+Set the sunroom lights to a warm peach,IoT
+Increase the brightness of the garage workbench light to 50%,IoT
+Turn on the bathroom vanity lights,IoT
+Set the living room lights to a calm teal,IoT
+Change the kitchen lights to purple,IoT
+Set the dining room lights to a pastel pink,IoT
+Increase the brightness of the nursery nightlight to 100%,IoT
+Turn off the porch pathway lights,IoT
+Change the hallway lights to emerald,IoT
+Set the sunroom lights to a soft lavender,IoT
+Increase the brightness of the garage lights to 80%,IoT
+Turn on the bathroom fan light,IoT
+Set the living room lights to a vibrant orange,IoT
+Change the kitchen lights to ruby red,IoT
+Set the dining room lights to a cool cyan,IoT
+Increase the brightness of the nursery lights to 90%,IoT
+Change the hallway lights to sapphire,IoT
+Set the sunroom lights to a deep blue,IoT
+Increase the brightness of the garage floodlights to 95%,IoT
+Turn on the bathroom cabinet lights,IoT
+Set the living room lights to a gentle amber,IoT
+Change the kitchen lights to turquoise,IoT
+Turn on the office ceiling fan light,IoT
+Set the dining room lights to a warm red,IoT
+Increase the brightness of the nursery reading light to 85%,IoT
+Change the hallway lights to mint,IoT
+Set the sunroom lights to a crisp white,IoT
+Increase the brightness of the garage task lights to 70%,IoT
+Set the living room lights to a warm gold,IoT
+Change the kitchen lights to magenta,IoT
+Turn on the office wall lights,IoT
+Set the dining room lights to a deep purple,IoT
+Increase the brightness of the nursery lamps to 60%,IoT
+Change the hallway lights to aquamarine,IoT
+Set the sunroom lights to a pastel yellow,IoT
+Increase the brightness of the garage ceiling light to 55%,IoT
+What is the definition of ubiquitous?,Lexicon
+Can you give me a synonym for quick?,Lexicon
+What does serendipity mean?,Lexicon
+What is an antonym of happy?,Lexicon
+Define paradigm for me,Lexicon
+What is a synonym for beautiful?,Lexicon
+Give me an antonym for sad,Lexicon
+What is the definition of esoteric?,Lexicon
+Can you provide a synonym for fast?,Lexicon
+What does ineffable mean?,Lexicon
+What is an antonym of difficult?,Lexicon
+Define ephemeral for me,Lexicon
+What is a synonym for strong?,Lexicon
+What does nebulous mean?,Lexicon
+Give me an antonym for weak,Lexicon
+What is the definition of ameliorate?,Lexicon
+Can you give me a synonym for intelligent?,Lexicon
+What does enigma mean?,Lexicon
+What is an antonym of bright?,Lexicon
+Define pulchritudinous for me,Lexicon
+What is a synonym for tiny?,Lexicon
+What does labyrinthine mean?,Lexicon
+Give me an antonym for large,Lexicon
+What is the definition of zenith?,Lexicon
+Can you provide a synonym for calm?,Lexicon
+What does cacophony mean?,Lexicon
+What is an antonym of quiet?,Lexicon
+Define lugubrious for me,Lexicon
+What is a synonym for lively?,Lexicon
+What does serene mean?,Lexicon
+Give me an antonym for noisy,Lexicon
+What is the definition of brevity?,Lexicon
+Can you give me a synonym for angry?,Lexicon
+What does superfluous mean?,Lexicon
+What is an antonym of necessary?,Lexicon
+Define verisimilitude for me,Lexicon
+What is a synonym for happy?,Lexicon
+Give me an antonym for rough,Lexicon
+What is the definition of antediluvian?,Lexicon
+Can you provide a synonym for easy?,Lexicon
+What does quixotic mean?,Lexicon
+What is an antonym of sensible?,Lexicon
+Define sagacious for me,Lexicon
+What is a synonym for smart?,Lexicon
+What does lachrymose mean?,Lexicon
+Give me an antonym for happy,Lexicon
+What is the definition of petrichor?,Lexicon
+Can you give me a synonym for kind?,Lexicon
+What is an antonym of permanent?,Lexicon
+Define munificent for me,Lexicon
+What is a synonym for generous?,Lexicon
+What does quandary mean?,Lexicon
+Give me an antonym for certain,Lexicon
+What is the definition of ethereal?,Lexicon
+Can you provide a synonym for delicate?,Lexicon
+What does soporific mean?,Lexicon
+What is an antonym of exciting?,Lexicon
+Define tenacity for me,Lexicon
+What is a synonym for persistent?,Lexicon
+What does myriad mean?,Lexicon
+Give me an antonym for few,Lexicon
+What is the definition of juxtapose?,Lexicon
+Can you give me a synonym for contrast?,Lexicon
+What does nefarious mean?,Lexicon
+What is an antonym of good?,Lexicon
+Define euphoria for me,Lexicon
+What is a synonym for joy?,Lexicon
+What does magnanimous mean?,Lexicon
+Give me an antonym for mean,Lexicon
+What is the definition of aberration?,Lexicon
+Can you provide a synonym for deviation?,Lexicon
+What does panacea mean?,Lexicon
+What is an antonym of problem?,Lexicon
+Define halcyon for me,Lexicon
+What is a synonym for peaceful?,Lexicon
+What does bellicose mean?,Lexicon
+Give me an antonym for peaceful,Lexicon
+What is the definition of cogent?,Lexicon
+Can you give me a synonym for persuasive?,Lexicon
+What does egregious mean?,Lexicon
+What is an antonym of minor?,Lexicon
+Define sagacity for me,Lexicon
+What is a synonym for wisdom?,Lexicon
+What does rancor mean?,Lexicon
+Give me an antonym for friendliness,Lexicon
+What is the definition of voracious?,Lexicon
+Can you provide a synonym for hungry?,Lexicon
+What is an antonym of stable?,Lexicon
+Define adulation for me,Lexicon
+What is a synonym for praise?,Lexicon
+What does insipid mean?,Lexicon
+Give me an antonym for flavorful,Lexicon
+What is the definition of garrulous?,Lexicon
+Can you give me a synonym for talkative?,Lexicon
+What does parsimonious mean?,Lexicon
+What is an antonym of generous?,Lexicon
+Define phlegmatic for me,Lexicon
+What is a synonym for calm?,Lexicon
+What does vociferous mean?,Lexicon
+Give me an antonym for quiet,Lexicon
+Can you provide a synonym for everywhere?,Lexicon
+What is an antonym of clarify?,Lexicon
+Define sanctimonious for me,Lexicon
+What is a synonym for self-righteous?,Lexicon
+What does vindicate mean?,Lexicon
+Give me an antonym for accuse,Lexicon
+What is the definition of laconic?,Lexicon
+Can you give me a synonym for concise?,Lexicon
+What does prodigious mean?,Lexicon
+What is an antonym of small?,Lexicon
+Define trepidation for me,Lexicon
+What is a synonym for fear?,Lexicon
+What is the definition of facetious?,Lexicon
+Can you provide a synonym for sarcastic?,Lexicon
+What does recapitulate mean?,Lexicon
+What is an antonym of summarize?,Lexicon
+Define perfunctory for me,Lexicon
+What is a synonym for routine?,Lexicon
+What does anachronistic mean?,Lexicon
+Give me an antonym for timely,Lexicon
+What is the definition of penultimate?,Lexicon
+Can you give me a synonym for second to last?,Lexicon
+What does evanescent mean?,Lexicon
+Define loquacious for me,Lexicon
+What is a synonym for chatty?,Lexicon
+What does altruistic mean?,Lexicon
+Give me an antonym for selfish,Lexicon
+What is the definition of quintessential?,Lexicon
+Can you provide a synonym for typical?,Lexicon
+What does pugnacious mean?,Lexicon
+What is an antonym of peaceful?,Lexicon
+Define apocryphal for me,Lexicon
+What is a synonym for doubtful?,Lexicon
+What does innocuous mean?,Lexicon
+Give me an antonym for harmful,Lexicon
+What is the definition of proclivity?,Lexicon
+Can you give me a synonym for tendency?,Lexicon
+What does redolent mean?,Lexicon
+What is an antonym of odorless?,Lexicon
+Define susurrus for me,Lexicon
+What is a synonym for whisper?,Lexicon
+What does quiescent mean?,Lexicon
+Give me an antonym for active,Lexicon
+What is the definition of solipsism?,Lexicon
+Can you provide a synonym for egocentrism?,Lexicon
+What does conundrum mean?,Lexicon
+What is an antonym of solution?,Lexicon
+Define heterodox for me,Lexicon
+What is a synonym for unorthodox?,Lexicon
+What does sagacious mean?,Lexicon
+Give me an antonym for foolish,Lexicon
+What is the definition of perspicacious?,Lexicon
+Can you give me a synonym for perceptive?,Lexicon
+What does obsequious mean?,Lexicon
+What is an antonym of assertive?,Lexicon
+Define pellucid for me,Lexicon
+What is a synonym for clear?,Lexicon
+What does recalcitrant mean?,Lexicon
+Give me an antonym for compliant,Lexicon
+What is the definition of morose?,Lexicon
+Can you provide a synonym for gloomy?,Lexicon
+What does intransigent mean?,Lexicon
+What is an antonym of flexible?,Lexicon
+Define vociferous for me,Lexicon
+What is a synonym for boisterous?,Lexicon
+What does voracious mean?,Lexicon
+Give me an antonym for apathetic,Lexicon
+What is the definition of sagacious?,Lexicon
+Can you give me a synonym for wise?,Lexicon
+What is an antonym of harsh?,Lexicon
+Define serendipity for me,Lexicon
+What is a synonym for fortune?,Lexicon
+What does tenebrous mean?,Lexicon
+Give me an antonym for bright,Lexicon
+What is the definition of trepidation?,Lexicon
+Can you provide a synonym for fear?,Lexicon
+What does resplendent mean?,Lexicon
+What is an antonym of dull?,Lexicon
+Define pernicious for me,Lexicon
+What is a synonym for harmful?,Lexicon
+What does ethereal mean?,Lexicon
+Give me an antonym for earthly,Lexicon
+Can you give me a synonym for ancient?,Lexicon
+What does verisimilitude mean?,Lexicon
+What is an antonym of falsehood?,Lexicon
+Define enervate for me,Lexicon
+What is a synonym for weaken?,Lexicon
+Give me an antonym for cheerful,Lexicon
+What is the definition of recalcitrant?,Lexicon
+Can you provide a synonym for stubborn?,Lexicon
+What is an antonym of honorable?,Lexicon
+Define iconoclast for me,Lexicon
+What is a synonym for rebel?,Lexicon
+What is the definition of pulchritude?,Lexicon
+Can you give me a synonym for beauty?,Lexicon
+What is the definition of Abditive?,Lexicon
+Can you give me a synonym for Abulia?,Lexicon
+What does Acaudate mean?,Lexicon
+What is an antonym of Acnestis?,Lexicon
+Define Acquiesce for me,Lexicon
+What is a synonym for Adoxography?,Lexicon
+What does Agastopia mean?,Lexicon
+Give me an antonym for Agelast,Lexicon
+What is the definition of Agog?,Lexicon
+Can you provide a synonym for Agraffe?,Lexicon
+What does Alexithymia mean?,Lexicon
+What is an antonym of Algedonic?,Lexicon
+Define Anachronism for me,Lexicon
+What is a synonym for Anfractuous?,Lexicon
+What does Anguilliform mean?,Lexicon
+Give me an antonym for Antediluvian,Lexicon
+What is the definition of Anthropophagist?,Lexicon
+Can you give me a synonym for Apocryphal?,Lexicon
+What does Aposiopesis mean?,Lexicon
+What is an antonym of Asomatous?,Lexicon
+Define Atrabilious for me,Lexicon
+What is a synonym for Autochthonous?,Lexicon
+What does Avuncular mean?,Lexicon
+Give me an antonym for Balter,Lexicon
+What is the definition of Bathysmal?,Lexicon
+Can you provide a synonym for Blatherskite?,Lexicon
+What does Borborygmus mean?,Lexicon
+What is an antonym of Bromopnea?,Lexicon
+Define Caducity for me,Lexicon
+What is a synonym for Caliginous?,Lexicon
+What does Callipygian mean?,Lexicon
+Give me an antonym for Cenotaph,Lexicon
+What is the definition of Chiaroscuro?,Lexicon
+Can you give me a synonym for Chiliad?,Lexicon
+What does Clinquant mean?,Lexicon
+What is an antonym of Colporteur?,Lexicon
+Define Concinnity for me,Lexicon
+What is a synonym for Conflagration?,Lexicon
+What does Contumacious mean?,Lexicon
+Give me an antonym for Crapulence,Lexicon
+What is the definition of Crepuscular?,Lexicon
+Can you provide a synonym for Defenestration?,Lexicon
+What does Deipnosophist mean?,Lexicon
+What is an antonym of Deliquescent?,Lexicon
+Define Desiderium for me,Lexicon
+What is a synonym for Dulcinea?,Lexicon
+What does Ebullient mean?,Lexicon
+Give me an antonym for Eccedentesiast,Lexicon
+What is the definition of Effulgent?,Lexicon
+Can you give me a synonym for Elucubrate?,Lexicon
+What does Emacity mean?,Lexicon
+What is an antonym of Emollient?,Lexicon
+Define Ephemeral for me,Lexicon
+What is a synonym for Erstwhile?,Lexicon
+What does Esoteric mean?,Lexicon
+Give me an antonym for Exsanguinate,Lexicon
+What is the definition of Farrago?,Lexicon
+Can you provide a synonym for Fugacious?,Lexicon
+What does Fuscous mean?,Lexicon
+What is an antonym of Garrulous?,Lexicon
+Define Grandiloquent for me,Lexicon
+What is a synonym for Hebetude?,Lexicon
+What does Hiraeth mean?,Lexicon
+Give me an antonym for Iconoclast,Lexicon
+What is the definition of Illecebrous?,Lexicon
+Can you give me a synonym for Imbroglio?,Lexicon
+What does Inchoate mean?,Lexicon
+What is an antonym of Insouciant?,Lexicon
+Define Insular for me,Lexicon
+What is a synonym for Intemerate?,Lexicon
+What does Intransigent mean?,Lexicon
+Give me an antonym for Irascible,Lexicon
+What is the definition of Jactation?,Lexicon
+Can you provide a synonym for Jejune?,Lexicon
+What does Kakistocracy mean?,Lexicon
+What is an antonym of Lagniappe?,Lexicon
+Define Lassitude for me,Lexicon
+What is a synonym for Leitmotif?,Lexicon
+What does Limerence mean?,Lexicon
+Give me an antonym for Lugubrious,Lexicon
+What is the definition of Machination?,Lexicon
+Can you give me a synonym for Mellifluous?,Lexicon
+What does Misoneism mean?,Lexicon
+What is an antonym of Munificent?,Lexicon
+Define Myriad for me,Lexicon
+What is a synonym for Nebulous?,Lexicon
+What does Nepenthe mean?,Lexicon
+Give me an antonym for Nocuous,Lexicon
+What is the definition of Nostrum?,Lexicon
+Can you provide a synonym for Nugatory?,Lexicon
+What does Obdurate mean?,Lexicon
+What is an antonym of Obeisance?,Lexicon
+Define Obfuscate for me,Lexicon
+What is a synonym for Obstreperous?,Lexicon
+What does Omphalos mean?,Lexicon
+Give me an antonym for Oppugn,Lexicon
+What is the definition of Osculation?,Lexicon
+Can you give me a synonym for Pabulum?,Lexicon
+What does Panglossian mean?,Lexicon
+What is an antonym of Panoply?,Lexicon
+Define Parapraxis for me,Lexicon
+What is a synonym for Pellucid?,Lexicon
+What does Penumbra mean?,Lexicon
+Give me an antonym for Perfunctory,Lexicon
+What is the definition of Perspicacious?,Lexicon
+Can you provide a synonym for Phalanx?,Lexicon
+What does Philippic mean?,Lexicon
+What is an antonym of Phosphenes?,Lexicon
+Define Picaresque for me,Lexicon
+What is a synonym for Pneumatic?,Lexicon
+What does Pogonotrophy mean?,Lexicon
+Give me an antonym for Poltroon,Lexicon
+What is the definition of Prevaricate?,Lexicon
+Can you give me a synonym for Prognosticate?,Lexicon
+What does Pulchritude mean?,Lexicon
+What is an antonym of Pyrrhic?,Lexicon
+Define Quixotic for me,Lexicon
+What is a synonym for Recalcitrant?,Lexicon
+What does Recondite mean?,Lexicon
+Give me an antonym for Redolent,Lexicon
+What is the definition of Resplendent?,Lexicon
+Can you provide a synonym for Rhadamanthine?,Lexicon
+What does Rhadamanthine mean?,Lexicon
+What is an antonym of Sagacious?,Lexicon
+Define Sartorial for me,Lexicon
+What is a synonym for Sesquipedalian?,Lexicon
+What does Sibilant mean?,Lexicon
+Give me an antonym for Sinecure,Lexicon
+What is the definition of Somnolent?,Lexicon
+Can you give me a synonym for Specious?,Lexicon
+What does Splendiferous mean?,Lexicon
+What is an antonym of Struthious?,Lexicon
+Define Subterfuge for me,Lexicon
+What is a synonym for Supercilious?,Lexicon
+What does Susurrus mean?,Lexicon
+Give me an antonym for Syzygy,Lexicon
+What is the definition of Tantamount?,Lexicon
+Can you provide a synonym for Tenebrous?,Lexicon
+What does Tintinnabulation mean?,Lexicon
+What is an antonym of Transmogrify?,Lexicon
+Define Truculent for me,Lexicon
+What is a synonym for Tumescent?,Lexicon
+What does Turpitude mean?,Lexicon
+Give me an antonym for Uxorious,Lexicon
+What is the definition of Vacuous?,Lexicon
+Can you give me a synonym for Vagary?,Lexicon
+What does Verisimilitude mean?,Lexicon
+What is an antonym of Vicarious?,Lexicon
+Define Vicissitude for me,Lexicon
+What is a synonym for Virescent?,Lexicon
+What does Vituperate mean?,Lexicon
+Give me an antonym for Winsome,Lexicon
+What is the definition of Xenodochial?,Lexicon
+Can you provide a synonym for Yare?,Lexicon
+What does Zephyr mean?,Lexicon
+What is an antonym of Zugzwang?,Lexicon
+Define Aeipathy for me,Lexicon
+What is a synonym for Allegiant?,Lexicon
+What does Amaranthine mean?,Lexicon
+Give me an antonym for Ambrosial,Lexicon
+What is the definition of Anachronous?,Lexicon
+What is an antonym of Autochthonous?,Lexicon
+Define Batrachomyomachia for me,Lexicon
+What is a synonym for Benighted?,Lexicon
+What does Bloviate mean?,Lexicon
+Give me an antonym for Bucolic,Lexicon
+What is the definition of Cacophony?,Lexicon
+Can you provide a synonym for Callithumpian?,Lexicon
+What does Catachresis mean?,Lexicon
+What is an antonym of Celerity?,Lexicon
+Define Cynosure for me,Lexicon
+What is a synonym for Demagogue?,Lexicon
+What does Diaphanous mean?,Lexicon
+Give me an antonym for Dilatory,Lexicon
+What is the definition of Dulcinea?,Lexicon
+Can you give me a synonym for Ebullient?,Lexicon
+What does Eccedentesiast mean?,Lexicon
+What is an antonym of Effulgent?,Lexicon
+Define Elucubrate for me,Lexicon
+What is a synonym for Eunoia?,Lexicon
+What does Evanescent mean?,Lexicon
+Give me an antonym for Eximious,Lexicon
+What is the definition of Exsanguinate?,Lexicon
+Can you provide a synonym for Farrago?,Lexicon
+What does Fugacious mean?,Lexicon
+What is an antonym of Fuscous?,Lexicon
+Define Garrulous for me,Lexicon
+What is a synonym for Grandiloquent?,Lexicon
+What does Hebetude mean?,Lexicon
+Give me an antonym for Hiraeth,Lexicon
+Can you stop the music?,Music
+Play the album Voodoo Lounge by The Rolling Stones,Music
+Lets get The Shins going,Music
+Give me my Pop Hits mix,Music
+Play funk music,Music
+Move forward to the next track,Music
+Bring the audio down,Music
+Shuffle Wild West Dark Country playlist,Music
+Can you play Shape of You by Ed Sheeran,Music
+Play some Post Malone songs,Music
+Play the album The Wall,Music
+Stop the song,Music
+Tone the volume down,Music
+Lower the audio output,Music
+Lets listen to some AC/DC songs,Music
+Play the album American Idiot by Green Day,Music
+Can you play Shape of My Heart by Sting?,Music
+Pause the track,Music
+Skip ahead one track,Music
+I want to hear Rocket Man by Elton John,Music
+Stop all audio playback,Music
+Shuffle my Evening Relaxation playlist,Music
+Spin my Funk Favorites playlist,Music
+"Volume down, please",Music
+Play Uptown Funk by Mark Ronson,Music
+Queue up some romantic classical music,Music
+Set the volume to 60,Music
+Play the album Rumours,Music
+Increase the audio volume,Music
+Play Sweet Caroline by Neil Diamond,Music
+Rewind to the first note and play again,Music
+Bring the music volume down,Music
+Lets listen to some Kacey Musgraves,Music
+Skip to the next track,Music
+Turn the volume up to 60,Music
+Id love to listen to my Indie Favorites playlist,Music
+Lower the music slightly,Music
+I want to hear HUMBLE by Kendrick Lamar,Music
+Play Wake Me Up by Avicii,Music
+Quiet it down a notch,Music
+Skip it,Music
+I want to listen to the album Achtung Baby by U2,Music
+Play some Fleetwood Mac classics,Music
+Id like to hear my Classic Rock mix,Music
+Play some The Shins songs,Music
+Play some The War on Drugs songs,Music
+Turn the sound a bit lower,Music
+"Next one, please",Music
+Lower the music volume,Music
+Reduce the audio sound,Music
+Play some R and B,Music
+Play some k-pop,Music
+Lets listen to Kendrick Lamar,Music
+Play my Workout Hits playlist,Music
+Listen to Nuthin but a G Thang by Dr Dre,Music
+Rewind this song to the start,Music
+Replay this track,Music
+Shuffle Teach relativity to your dog playlist,Music
+Pause the tunes now,Music
+I want to listen to the album 1989 by Taylor Swift,Music
+Please skip ahead,Music
+Please stop the music,Music
+Rewind to the start and replay,Music
+I want to listen to the album Blue and Lonesome by The Rolling Stones,Music
+Play some R and B music,Music
+Rewind the previous song,Music
+Turn the volume down,Music
+I want to listen to the album Hotel California by Eagles,Music
+Reduce the audio,Music
+Lets listen to some Vivaldi,Music
+Replay it,Music
+Play some New Order,Music
+Replay the music from the start,Music
+Queue up Lose Yourself by Eminem,Music
+Play the album Melodrama by Lorde,Music
+Play some Fleetwood Mac,Music
+Turn up the sound a little,Music
+Make the audio sound lower,Music
+Pump up the volume,Music
+Play Get Lucky by Daft Punk,Music
+Play this tune from the start,Music
+Lower the music intensity,Music
+Play some childrens music,Music
+Turn the volume to 70,Music
+Play Golden Age by Late Night Episode,Music
+Lets listen to some blues,Music
+Play punk music,Music
+Give me some Bear Hands,Music
+Play some punk music,Music
+Play Entertainment by Phoenix,Music
+Play some chill tracks,Music
+Lets hear the album Madman Across the Water by Elton John,Music
+Spin some indie rock,Music
+Put on the album 25 by Adele,Music
+Play my Study Session playlist,Music
+Can you turn it down?,Music
+Go back to the beginning,Music
+Stop the current tune,Music
+Lets hear the album 4 by Beyoncé,Music
+Crank the music loud,Music
+Please make it less loud,Music
+Play some j-rock,Music
+Amplify the sound,Music
+Please pause playback,Music
+Play Post Break-Up Sex by The Vaccines,Music
+Play this again from the start,Music
+Play grunge music,Music
+Play the album Rocketman: Music from the Motion Picture by Elton John,Music
+Lets listen to some indie folk,Music
+Shuffle my Road Trip Classics playlist,Music
+Put on my Morning Motivation playlist,Music
+Play Shape of You by Eminem,Music
+Turn down the music sound,Music
+Put on my Party Mix playlist,Music
+Play Frank Sinatra Radio playlist,Music
+Play Final Song by MØ,Music
+Can you turn it up a bit more?,Music
+Put on the album Dookie by Green Day,Music
+Rewind to the previous track,Music
+Rewind the song and play it again,Music
+Shuffle my Funk Grooves playlist,Music
+Play some The Black Keys songs,Music
+Shuffle my Workout Playlist,Music
+Play my Jazz Lounge playlist,Music
+Lets hear the album Revolver by The Beatles,Music
+Play Metamorphic playlist,Music
+Put on the album Future Nostalgia by Dua Lipa,Music
+Lets listen to some Frank Sinatra,Music
+Skip to the next,Music
+Play Sweet Disposition by The Temper Trap,Music
+I want to hear Bohemian Rhapsody by Queen,Music
+Stop the current music,Music
+Dial down the volume,Music
+Play some chillstep,Music
+Adjust the volume to 0,Music
+Play Rolling in the Deep by Eagles,Music
+Lets hear my Lazy Sunday playlist,Music
+Queue Hotel California live version,Music
+Turn down the volume a little more,Music
+Queue up some classic rock hits,Music
+Raise the volume to 40,Music
+Play classical music,Music
+Play some indian music,Music
+Stop the track please,Music
+Rewind to the start,Music
+Lets listen to some Dua Lipa,Music
+Play some opera,Music
+Play Blinding Lights by Lil Nas X,Music
+Make it louder,Music
+Id like to listen to my Hip-Hop Classics,Music
+Set the volume to 80,Music
+Start the song again from the beginning,Music
+Set the volume to 50,Music
+Pause all music right now,Music
+"Next up, please",Music
+I want to hear Little Lion Man by Mumford and Sons,Music
+Play some Grimes,Music
+Can you pause the track?,Music
+Switch to the next song,Music
+Boost the volume,Music
+Move on,Music
+Next track,Music
+I want to hear Alright by Kendrick Lamar,Music
+Shuffle Light playlist,Music
+Give me my Blues Rock mix,Music
+Play some Sir Sly songs,Music
+Rewind the track to the start,Music
+Shuffle my Folk Favorites playlist,Music
+Put on the album Dangerously in Love by Beyoncé,Music
+Rewind the song to the start,Music
+Play some jazz music,Music
+I want to listen to the album Blue Moves by Elton John,Music
+Cue my All-time Faves,Music
+Shuffle my Party Starters playlist,Music
+Can you play Billie Eilish songs?,Music
+Play my Driving Songs mix,Music
+Put on the album Legend by Bob Marley,Music
+Queue up my Acoustic Hits,Music
+I want to hear my Rock Classics playlist,Music
+Lets hear the album Tattoo You by The Rolling Stones,Music
+Turn on Redbone by Childish Gambino,Music
+Play Happy by Pharrell Williams,Music
+Shuffle my Electronic Essentials playlist,Music
+Play the album Revolver,Music
+Rewind back,Music
+Lower the noise volume,Music
+Play Love Story by Taylor Swift,Music
+Stop this playback,Music
+Rewind to the start of this track,Music
+Lets listen to some Bob Marley,Music
+Lets hear my Modern Rock mix,Music
+Stop the playback please,Music
+Turn the sound level up,Music
+Can you make it quieter?,Music
+Increase the volume a lot,Music
+Play some psych-rock,Music
+Play Ghost by Badflower,Music
+Can you lower it?,Music
+Play some Fitz and the Tantrums,Music
+Lets hear some electronic dance music,Music
+Shuffle the Orchestral Rock Mix playlist,Music
+Rewind the music track,Music
+Turn the music volume down,Music
+Play some ambient tracks,Music
+Next track on the list,Music
+Lets listen to country music,Music
+Replay the previous song,Music
+Set the volume to 30,Music
+Put on my 80s Rock Anthems,Music
+Turn the volume up to 30,Music
+Play Uptown Girl by Billy Joel,Music
+I want to listen to the album Hybrid Theory by Linkin Park,Music
+Shuffle my Chill Playlist,Music
+Play some rock and roll,Music
+Play Whats Going On by Marvin Gaye,Music
+Play the album The Marshall Mathers LP by Eminem,Music
+Play Take On Me by A-ha,Music
+Id love to hear some psychedelic rock,Music
+Rewind and play this music again,Music
+Can you shuffle my Relaxation playlist?,Music
+Play some Peach Pit,Music
+Boost the volume a bit,Music
+Return to the beginning,Music
+Play Purple Haze by Jimi Hendrix,Music
+Can you play Cant Stop the Feeling by Justin Timberlake?,Music
+End the music,Music
+Play the album Led Zeppelin IV,Music
+Play some classical tunes,Music
+Play This Is America by Childish Gambino,Music
+Play some Eminem songs,Music
+Begin the track from the start,Music
+Turn up the volume level,Music
+I want to listen to the album In the Lonely Hour by Sam Smith,Music
+Lets get the Dance Party started,Music
+Play the album Graceland by Paul Simon,Music
+Lets hear the album Caribou by Elton John,Music
+Start the track over from the beginning,Music
+Play Electric Feel by MGMT,Music
+"Make the sound louder, please",Music
+Give me my Rock Legends mix,Music
+Lets hear the album Songs in the Key of Life by Stevie Wonder,Music
+Start this over from the top,Music
+Drop the sound level,Music
+stop,Music
+Play some punk,Music
+I want to listen to the album Led Zeppelin IV by Led Zeppelin,Music
+Queue Lover album by Taylor Swift,Music
+Rewind the previous track,Music
+Rewind and start from the beginning,Music
+Play Ways to Go by Grouplove,Music
+Id love to hear some old-school country,Music
+Play Bohemian Rhapsody by The Beatles,Music
+Play 2AM by Bear Hands,Music
+Go forward to the next track,Music
+Play Viva La Vida by Coldplay,Music
+Play Uptown Funk by Adele,Music
+Pause the music,Music
+Lets hear Piano Man by Billy Joel,Music
+Drop the volume,Music
+Screw this shit,Music
+Turn up the volume a notch,Music
+Queue Shape of You by Ed Sheeran,Music
+Shuffle my roaring 2020s playlist,Music
+Play Sorry by Justin Bieber,Music
+Next in queue,Music
+Hold the music,Music
+Make the sound level higher,Music
+Rewind to the start of the song,Music
+Put on Linkin Park for me,Music
+Play some The Mowglis,Music
+Put on my Evening Chill playlist,Music
+Lets listen to some Nashville country,Music
+Can you play some country music?,Music
+Restart this song,Music
+Put on the album Reputation by Taylor Swift,Music
+Lets listen to some Taylor Swift songs,Music
+Next song now,Music
+Skip this track,Music
+Drop the music volume,Music
+Play We Found Love by Rihanna,Music
+Crank up some classic blues,Music
+Lets listen to some Aretha Franklin,Music
+Rewind this track,Music
+Id love to hear some Texas blues,Music
+How about my Blues Grooves playlist?,Music
+Skip this song now,Music
+Play some Colony House,Music
+Turn down the audio a bit more,Music
+Skip this tune,Music
+Stop the playback completely,Music
+Rewind and start again,Music
+Play some tracks from Electronic Vibes,Music
+Play some forro,Music
+Queue up Happy by Pharrell Williams,Music
+Move to the next song,Music
+Put on the album Purple Rain,Music
+Rewind to the start and play,Music
+Play Jazz but with a microLED playlist,Music
+Play some pop-film soundtracks,Music
+Play Firestone by Kygo,Music
+Play Stairway to Heaven by Led Zeppelin,Music
+Next song,Music
+Play Deans Love Songs playlist,Music
+Shuffle my Reggae Vibes playlist,Music
+Play This Is Jake Daniels playlist,Music
+Pause this song,Music
+Play some lively salsa music,Music
+Lets hear the album Automatic for the People by REM,Music
+"Skip this one, please",Music
+Advance to the next track,Music
+Turn the volume up a bit more,Music
+Lets hear the album Exile on Main St by The Rolling Stones,Music
+Play some cantopop,Music
+Turn up the volume a bit,Music
+Go back to the start of the song,Music
+Rewind to the top,Music
+I want to listen to the album Rumours by Fleetwood Mac,Music
+Play some Oh Wonder,Music
+Next track right away,Music
+I want to hear some classic rock,Music
+Rewind and replay the song,Music
+Shuffle the Night Chill playlist,Music
+Stop the audio now,Music
+Play it from the top,Music
+Rewind this song to the beginning,Music
+Could you play Phoenix for me?,Music
+Play Shallow by Lady Gaga,Music
+Go back to the previous song,Music
+Set the volume to 95,Music
+Play Landslide by Fleetwood Mac,Music
+Next track right now,Music
+Rewind and play the music again,Music
+Can you move on?,Music
+Play some Adele songs,Music
+Put on some rap music,Music
+Reduce the volume,Music
+Play Work by Rihanna,Music
+Turn on Ambient Chill playlist,Music
+Reduce the sound level,Music
+Play Post Apocalyptic Playlist,Music
+Go to the next song,Music
+Shuffle the Doggone Good playlist,Music
+Cease the music,Music
+Please turn the audio down,Music
+Pause all music,Music
+Lets hear the album Born to Run by Bruce Springsteen,Music
+Play Blue Monday by New Order,Music
+Shuffle my Chill Vibes playlist,Music
+Increase the volume slightly,Music
+Play Shape of You by Ed Sheeran,Music
+I want to hear songs by MGMT,Music
+I want to hear Stay with Me by Sam Smith,Music
+Dim the volume,Music
+Raise the sound,Music
+Please end the music,Music
+Play some iranian music,Music
+Play Undercover Martyn by Two Door Cinema Club,Music
+Stop the song now,Music
+Play some Mondo Cozmo,Music
+Lower the sound a little more,Music
+Play it back,Music
+Increase the volume to 5,Music
+Lets listen to some Mumford and Sons,Music
+Increase the volume a bit,Music
+Play Just Give Me a Reason by Pink,Music
+Decrease the music volume,Music
+Play some anime music,Music
+Id like to listen to my Electronic Essentials playlist,Music
+Stop all tracks,Music
+Play some The Beatles songs,Music
+Spin some baroque classical,Music
+Shuffle the Engineering Ingenuity playlist,Music
+Play the album Future Nostalgia by Dua Lipa,Music
+Skip this track entirely,Music
+Play Teenage Dream by Katy Perry,Music
+Queue up All of Me by John Legend,Music
+Play Bicycle by Declan McKenna,Music
+Set the volume to 15,Music
+I want to hear some reggae,Music
+Play 70s Mix playlist,Music
+Rewind to the start of the previous track,Music
+Play Voce dItalia playlist,Music
+Play the album 21,Music
+Play some classical,Music
+Raise the audio level,Music
+Play some alternative music,Music
+Stop the track,Music
+Lets hear The War on Drugs,Music
+Play Get Out by CHVRCHES,Music
+Amplify the music,Music
+Play Dreams by Fleetwood Mac,Music
+Stop playing the current audio,Music
+Restart the track,Music
+Lower the sound,Music
+Play some Arctic Monkeys,Music
+Go to the next track,Music
+Boost the sound level,Music
+Rewind to the start of the tune,Music
+Play Lose Yourself by Michael Jackson,Music
+Stop the current track immediately,Music
+Play my Sunday Morning playlist,Music
+Play some Young the Giant tracks,Music
+Play Stay With Me by Sam Smith,Music
+Id like to listen to Tame Impala,Music
+Turn the volume a bit lower,Music
+Shuffle Sad playlist,Music
+Put on the album Beggars Banquet by The Rolling Stones,Music
+Can you play Havana by Camila Cabello?,Music
+Replay this song,Music
+Play some rock music,Music
+Rewind to the first beat and play again,Music
+Turn the audio volume lower,Music
+Shuffle my Chill Hits playlist,Music
+Play Mind Over Matter by Young the Giant,Music
+Start the song from the top,Music
+Play my Modern Blues mix,Music
+Skip to the next song in queue,Music
+Give me some electric blues,Music
+Shuffle my Study Music playlist,Music
+Play this song again,Music
+Lower the volume a notch,Music
+Start the Evening Acoustics playlist,Music
+Play some Passion Pit,Music
+Adjust the volume to 70,Music
+Play Silvertongue by Young the Giant,Music
+Make the audio quieter,Music
+Lets get some Latin jazz going,Music
+How about my Blues Rock Anthems?,Music
+Play Best Day of My Life by American Authors,Music
+"Next tune, please",Music
+Give me some punk rock,Music
+Fuck off and stop the music,Music
+Turn the volume down to 10,Music
+Play some new releases,Music
+Can you quiet it down?,Music
+Raise the sound level,Music
+Adjust the volume to 100,Music
+Play Hotel California by Eagles,Music
+Shuffle the Villain mode activated playlist,Music
+Lets listen to some Daft Punk songs,Music
+I want to hear Green Light by Lorde,Music
+Play some Lil Nas X songs,Music
+Play Shape of You by The Beatles,Music
+Pause the audio,Music
+Rewind to the last track,Music
+Stop the current track,Music
+Id like to listen to my 90s Hits playlist,Music
+Lets hear the album Hot Fuss by The Killers,Music
+I want to hear So What by Miles Davis,Music
+Play Hey Jude by Adele,Music
+Boost the music volume,Music
+Rewind the tune,Music
+Turn down the music volume,Music
+Lets listen to Surfer Blood,Music
+Play some alt-rock,Music
+Play Oldies playlist,Music
+Queue up Bohemian Rhapsody by Queen,Music
+Go back to the start and play,Music
+Shuffle the Night Drive playlist,Music
+Adjust the volume to 95,Music
+Advance to the next track in line,Music
+Replay this audio,Music
+Skip this song,Music
+Raise the sound volume,Music
+Skip forward to the next song,Music
+Please pause the music,Music
+Queue up my Smooth Jazz playlist,Music
+Play the song again from the beginning,Music
+Turn the volume lower,Music
+Can you put on my Funky Beats playlist?,Music
+I want to hear Cant Help Falling in Love by Elvis Presley,Music
+Queue up my Hard Rock Anthems,Music
+Skip this part,Music
+Set the volume to 85,Music
+Make the music louder,Music
+How about my Country Roads playlist?,Music
+Play some new-age music,Music
+Id like to listen to some bebop jazz,Music
+Play some german music,Music
+Lets listen to some folk music,Music
+Play Cant Stop the Feeling! by Justin Timberlake,Music
+Lets get my Workout Motivation mix,Music
+Queue up my Chillwave Beats,Music
+Make the sound louder,Music
+Play the album Nevermind,Music
+Play some Arcade Fire songs,Music
+Turn the volume down a little,Music
+Increase the audio output,Music
+Start the track from the top,Music
+Hold the playback,Music
+Raise the sound a bit,Music
+Play some John Legend songs,Music
+I want to hear the Italiana Romantica playlist,Music
+Listen to the Coffeehouse Chill playlist,Music
+I need upbeat workout songs,Music
+Turn down the volume,Music
+Play some Foster the People,Music
+Shuffle my Indie Vibes playlist,Music
+Play some Crystal Castles,Music
+Pause the current tunes,Music
+Jump ahead to the next song,Music
+Play Make It Right by The Real Zebos,Music
+Play the album Golden Hour by Kacey Musgraves,Music
+Start the song from the beginning,Music
+Play from the beginning,Music
+Back to the first note,Music
+Skip the current track,Music
+Pause the current audio,Music
+Start the Disco Fever playlist,Music
+Play some The Japanese House tracks,Music
+Can you move to the next song?,Music
+Can you go to the next song?,Music
+Play my Golden Oldies playlist,Music
+Take the volume down a notch,Music
+Put on the album Melodrama by Lorde,Music
+I want to listen to the album BEYONCÉ by Beyoncé,Music
+Play Technicolour Beat by Oh Wonder,Music
+I want to listen to the album Lemonade by Beyoncé,Music
+Play the album ÷ by Ed Sheeran,Music
+Start the music over,Music
+Play I Will Always Love You by Whitney Houston,Music
+Give me some 80s pop hits,Music
+Set the volume to 5,Music
+Queue up Rockstar by Post Malone,Music
+Play Love It If We Made It by The 1975,Music
+Jump to the next one,Music
+Play some The Royal Concept,Music
+Play Someone Like You by Adele,Music
+Play some french music,Music
+Stop all music playback,Music
+Jump to the next track,Music
+Play Best Friend by Foster the People,Music
+Lets listen to some Metallica,Music
+Shuffle Jazz Lofi Vibes playlist,Music
+Lower the music a bit,Music
+I want to hear The Thrill Is Gone by BB King,Music
+Reduce the music level,Music
+Rewind the audio,Music
+Play some tracks from Feel Good Friday,Music
+Put on some Vampire Weekend music,Music
+Play some soul music,Music
+Play it again,Music
+Shuffle Voce dItalia playlist,Music
+Pause all audio,Music
+Give me my Classical Relaxation mix,Music
+Skip to the next tune,Music
+Play Sweet Child O Mine by Guns N Roses,Music
+Skip over this,Music
+Play some post-dubstep,Music
+Play Black Mambo by Glass Animals,Music
+Id like to hear some Happy Hits,Music
+Play the album Dark Side of the Moon,Music
+Drop the volume a little,Music
+Play Shape of You by Billie Eilish,Music
+Play the album Dark Side of the Moon by Pink Floyd,Music
+Queue up my Country Classics,Music
+Shuffle my Morning Boost playlist,Music
+Listen to the Classical Essentials playlist,Music
+"Skip this, go to the next",Music
+Lets get my Chill Beats playlist,Music
+Turn the volume down slightly more,Music
+Play Young Lion by Vampire Weekend,Music
+Play Crystals by Of Monsters and Men,Music
+Play Circles by Post Malone,Music
+Shuffle the Light playlist,Music
+Play some j-pop,Music
+Play some Kygo,Music
+Play Locked Out of Heaven by Bruno Mars,Music
+Can you go forward?,Music
+Pause the song for a bit,Music
+Play Imagine by John Lennon,Music
+Id like to listen to my Jazz Essentials,Music
+Rewind the track and play again,Music
+Move to the next audio,Music
+Turn the music volume lower,Music
+Adjust the volume to 65,Music
+Pump up the audio,Music
+Please make the audio quieter,Music
+Replay the track please,Music
+Raise the volume a little,Music
+"Volume up, please",Music
+Can you put on some bluegrass country?,Music
+Put on the album Sigh No More by Mumford and Sons,Music
+Play Let Her Go by Passenger,Music
+Play the next track,Music
+Rewind to the first note,Music
+Can you lower the music?,Music
+Lets listen to some Miles Davis,Music
+Queue up some chamber classical music,Music
+Play Hotline Bling by Drake,Music
+Put on the album 19 by Adele,Music
+Please increase the sound,Music
+Replay the last track,Music
+Lets listen to some Kendrick Lamar,Music
+Turn the volume to 15,Music
+Replay the audio from the beginning,Music
+Play Blame It on Me by Adele,Music
+How about my Morning Yoga playlist?,Music
+Turn the volume higher,Music
+Next song in the list,Music
+Replay this song from the beginning,Music
+Give me my Alternative Rock mix,Music
+Queue the Rainy Day Jazz playlist,Music
+Lets hear the album OK Computer by Radiohead,Music
+Lets hear that again,Music
+Play some chill-out tracks,Music
+Turn it up,Music
+Rewind to the first note and replay,Music
+Lower the volume slightly more,Music
+Set the volume to 90,Music
+Pause all songs,Music
+Play some death-metal,Music
+I want to hear my Reggae Vibes playlist,Music
+Can you raise the music volume?,Music
+Make the music less loud,Music
+Can you turn it down a bit?,Music
+Turn the sound lower,Music
+Can you bring down the volume?,Music
+Shuffle my Morning Motivation playlist,Music
+Turn up the audio,Music
+Play Light My Fire by The Doors,Music
+Skip this tune immediately,Music
+Rewind to the previous tune,Music
+Turn on my Morning Workout playlist,Music
+Rewind the music track to the beginning,Music
+Lower the music sound,Music
+Shuffle my Relaxation playlist,Music
+How about some Andrew McMahon in the Wilderness?,Music
+Next up,Music
+I want to hear Let It Go by Idina Menzel,Music
+Skip forward,Music
+Play Blame It on Me by The Weeknd,Music
+Im in the mood for Mozart,Music
+Play some punk-rock,Music
+Crank up the volume a bit,Music
+Play Midnight City by M83,Music
+Play Cecilia and the Satellite by Andrew McMahon in the Wilderness,Music
+Rewind this track to the start,Music
+Rewind to the start of this song,Music
+Please make it quieter,Music
+Decrease the volume to 70,Music
+Turn the music down a bit,Music
+Next song up,Music
+Put on the album The Wall by Pink Floyd,Music
+Play Not in Love by Crystal Castles,Music
+Start the track again,Music
+Play Cheap Thrills by Sia,Music
+Skip over this song,Music
+Play All About That Bass by Meghan Trainor,Music
+Spin some The 1975,Music
+Rewind to the first beat,Music
+Replay this music from the start,Music
+Pause playback,Music
+Play the album The Dark Side of the Moon,Music
+Reduce the sound,Music
+Can you lower the sound?,Music
+Begin from the top,Music
+Play some Glass Animals music,Music
+Go back and replay,Music
+Turn up the volume,Music
+Queue up my Blues Essentials,Music
+Crank up the audio,Music
+Put on some upbeat dance music,Music
+Skip this one,Music
+Turn the volume level up,Music
+Rewind the current track to the start,Music
+Rewind and replay this track,Music
+Queue up Bohemian Like You by The Dandy Warhols,Music
+Skip over this one,Music
+Play some dub music,Music
+Listen to Kiss by Prince,Music
+Queue Despacito by Luis Fonsi,Music
+Play some CHVRCHES,Music
+Turn up the sound,Music
+Can you put on Arcade Fire?,Music
+Queue Blank Space by Taylor Swift,Music
+Play Fast Classical Mix playlist,Music
+Turn down the sound volume,Music
+Play party hits for a good time,Music
+Jump to the next song,Music
+Play some metal,Music
+Lower the volume to 60,Music
+Reduce the noise output,Music
+Replay the last song,Music
+Lower the audio,Music
+Go to the next,Music
+Play some IDM,Music
+Turn on some soothing spa music,Music
+Play some Wolf Alice,Music
+Play some M83,Music
+Play Old Town Road by Lil Nas X,Music
+Play Cant Hold Us by Macklemore and Ryan Lewis,Music
+Play Bohemian Rhapsody by The Weeknd,Music
+Stop playing music now,Music
+Skip ahead,Music
+Play some reggaeton,Music
+Replay that last song,Music
+Play trap music,Music
+Play some chicago-house,Music
+Queue up some pop music,Music
+Replay that track,Music
+Shuffle my Morning Vibes playlist,Music
+Queue up Smooth Criminal by Michael Jackson,Music
+Play some romantic songs,Music
+Replay the song from the start,Music
+Turn on my Running Tracks playlist,Music
+Play Hallelujah by Jeff Buckley,Music
+Id like to listen to my Rock n Roll Hits,Music
+Turn the volume to 40,Music
+Rewind the song back,Music
+Stop this song,Music
+Advance to the next one,Music
+Pause the music for a bit,Music
+Go to the next tune,Music
+Play some classical music,Music
+I want to listen to my Morning Workout playlist,Music
+Play some punk rock,Music
+Play Counting Stars by OneRepublic,Music
+I want to hear Seven Nation Army by The White Stripes,Music
+Start the track over,Music
+Rewind the current song to the start,Music
+Play the album Back in Black,Music
+I want to listen to the album Folklore by Taylor Swift,Music
+Go to the next one,Music
+"Skip this, please",Music
+Jump ahead to the next track,Music
+Increase the audio,Music
+Play my Liked Songs playlist,Music
+Queue up my Relaxing Acoustic playlist,Music
+Set the volume to 75,Music
+Play Electric Indigo by The Paper Kites,Music
+Play the album Fearless by Taylor Swift,Music
+Reduce the audio volume,Music
+Play Shallow by Eagles,Music
+Advance to the next song,Music
+Boost the volume a little,Music
+Play some The Neighbourhood songs,Music
+Play metal music,Music
+Rewind to the beginning,Music
+Play some guitar music,Music
+Set the volume to 70,Music
+Stop the audio immediately,Music
+Play some SHAED,Music
+Shuffle the Workday Motivation playlist,Music
+Play All the Pretty Girls by Kaleo,Music
+Play some black-metal,Music
+Lets listen to some Lorde,Music
+Can you play the album Rumours,Music
+set an alarm for 7 AM,Assistant
+start a 15-minute timer,Assistant
+check my email inbox,Assistant
+add a meeting with the design team to my calendar tomorrow at 3 PM,Assistant
+send a text to Jamie saying we need to reschedule our lunch,Assistant
+flip a coin,Assistant
+flip 250 coins,Assistant
+what is the date today,Assistant
+what time is it,Assistant
+how many unread emails do I have,Assistant
+set an alarm for 8 PM tonight,Assistant
+wake me up at 5 AM tomorrow,Assistant
+start a timer for 45 minutes,Assistant
+check my primary email account for new messages,Assistant
+schedule a meeting for tomorrow at 9 AM,Assistant
+send a text to Alex to confirm our meeting,Assistant
+flip a coin and tell me if it's heads or tails,Assistant
+how many coins land heads if I flip 50,Assistant
+what's today's date,Assistant
+tell me the current time,Assistant
+set two alarms one for 7 AM and another for 8 AM,Assistant
+start a countdown for 30 seconds,Assistant
+look up any new emails since yesterday,Assistant
+add a vet appointment to my calendar for next Friday at 2 PM,Assistant
+text Carol that I will be late,Assistant
+toss 250 coins and count how many are heads,Assistant
+check the date next Friday,Assistant
+provide the time in Tokyo,Assistant
+set an early morning alarm for 6:15 AM,Assistant
+start a 10-minute meditation timer,Assistant
+refresh my inbox,Assistant
+put a lunch meeting on my calendar for this Wednesday at noon,Assistant
+send an SMS to Dad saying I'll visit this weekend,Assistant
+flip a single coin,Assistant
+ask if today is a leap day,Assistant
+give me the exact time with seconds,Assistant
+alarm me at quarter to eight,Assistant
+start a one-hour workout timer,Assistant
+do I have any unread emails from Mark today,Assistant
+schedule my annual review for next month at 10 AM,Assistant
+message Jenny 'Happy Birthday!',Assistant
+flip three coins simultaneously,Assistant
+what day of the week is it today,Assistant
+what time does the sun set,Assistant
+set alarm for every hour,Assistant
+begin a timer for 5 minutes,Assistant
+check for emails with the subject 'Invoice',Assistant
+add a reminder for my sister's recital on June 20th at 7 PM,Assistant
+send a text to the plumber about the appointment,Assistant
+conduct a coin toss experiment with 200 coins,Assistant
+Set an alarm for 8 PM tonight,Assistant
+Wake me up at 5 AM tomorrow,Assistant
+Start a timer for 45 minutes,Assistant
+Check my primary email account for new messages,Assistant
+Schedule a meeting for tomorrow at 9 AM,Assistant
+Send a text to Alex to confirm our meeting,Assistant
+Flip a coin and tell me if it's heads or tails,Assistant
+How many coins land heads if I flip 50,Assistant
+What's today's date,Assistant
+Tell me the current time,Assistant
+Set two alarms one for 7 AM and another for 8 AM,Assistant
+Start a countdown for 30 seconds,Assistant
+Look up any new emails since yesterday,Assistant
+Add a vet appointment to my calendar for next Friday at 2 PM,Assistant
+Text Carol that I will be late,Assistant
+Toss 250 coins and count how many are heads,Assistant
+Check the date next Friday,Assistant
+Provide the time in Tokyo,Assistant
+Set an early morning alarm for 6:15 AM,Assistant
+Start a 10-minute meditation timer,Assistant
+Refresh my inbox,Assistant
+Put a lunch meeting on my calendar for this Wednesday at noon,Assistant
+Send an SMS to Dad saying I'll visit this weekend,Assistant
+Flip a single coin,Assistant
+Ask if today is a leap day,Assistant
+Give me the exact time with seconds,Assistant
+Alarm me at quarter to eight,Assistant
+Start a one-hour workout timer,Assistant
+Do I have any unread emails from Mark today,Assistant
+Schedule my annual review for next month at 10 AM,Assistant
+Message Jenny 'Happy Birthday!',Assistant
+Flip three coins simultaneously,Assistant
+What day of the week is it today,Assistant
+What time does the sun set,Assistant
+Set an alarm for every hour,Assistant
+Begin a timer for 5 minutes,Assistant
+Check for emails with the subject 'Invoice',Assistant
+Add a reminder for my sister's recital on June 20th at 7 PM,Assistant
+Send a text to the plumber about the appointment,Assistant
+Conduct a coin toss experiment with 200 coins,Assistant
+Can you tell me today's date in the format YYYY-MM-DD,Assistant
+What's the time difference between New York and London right now,Assistant
+Set a nap alarm for 20 minutes from now,Assistant
+Create a timer for 25 minutes,Assistant
+Activate an alarm for tomorrow at 7:30 AM,Assistant
+Notify me at noon,Assistant
+Begin a 15-minute focus timer,Assistant
+Retrieve new emails in my inbox,Assistant
+Schedule a Skype call for next Thursday at 10 AM,Assistant
+Text Eric to bring the project files,Assistant
+Flip two coins and show me the results,Assistant
+If I flip 100 coins how many heads will I get,Assistant
+Flip 200 coins,Assistant
+What time is it,Assistant
+What year is it,Assistant
+What is the date this Saturday,Assistant
+Check the current local time,Assistant
+Set dual alarms for 6 AM and 7 AM,Assistant
+Start a 10-second sprint timer,Assistant
+Find emails from Alice sent this week,Assistant
+Put my doctor’s appointment on the calendar for Monday at 11 AM,Assistant
+Text Paula to confirm the dinner plans,Assistant
+Flip five coins at once,Assistant
+Determine the date three weeks from now,Assistant
+Show me the time in Paris,Assistant
+Set my wake-up alarm for 8 AM on weekends,Assistant
+Start a timer for my 30-minute lunch break,Assistant
+Update me on the latest emails,Assistant
+Block out 2 PM to 3 PM on Tuesday for a meeting,Assistant
+Send a reminder text to the team about the deadline,Assistant
+Flip a coin to decide,Assistant
+Tell me if this year is a leap year,Assistant
+Get the exact current time in London,Assistant
+Alarm at half past six in the evening,Assistant
+Time a 15-minute relaxation session,Assistant
+Am I getting emails from the boss today,Assistant
+Schedule a quarterly review on July 22nd at 1 PM,Assistant
+Send 'get well soon' wishes to Linda via text,Assistant
+Can you flip a dozen coins for me,Assistant
+What is the date of the next full moon,Assistant
+Can you tell me what time it is in Sydney,Assistant
+Set hourly alarms from 9 AM to 5 PM,Assistant
+Initiate a two-minute breathing exercise timer,Assistant
+Search for unread emails with attachments,Assistant
+Mark June 10th at 5 PM for our annual party,Assistant
+Text the garage to confirm car pick-up time,Assistant
+Perform a 100-coin flip test,Assistant
+Watch the clock for me,Assistant
+Set a timer for twenty minutes,Assistant
+What’s the time difference between here and Dubai,Assistant
+Set an alarm for the start of the workday at 9 AM,Assistant
+Time a 50-minute study session,Assistant
+Have I received any emails about the conference,Assistant
+Remind me of my sister's birthday party next Saturday at noon,Assistant
+Send a quick text to Tom about tomorrow's presentation,Assistant
+Flip a coin 100 times and calculate the probability of heads,Assistant
+Is today's date an odd or even number,Assistant
+Could you give me the time with a time zone conversion,Assistant
+Set my morning alarm for every weekday at 6:45 AM,Assistant
+Start a 3-minute warm-up timer,Assistant
+Look for any flagged emails received today,Assistant
+Schedule my car's service appointment for the 15th at 9:30 AM,Assistant
+Send a text to the dentist asking for appointment availability,Assistant
+How many tails if I flip 150 coins,Assistant
+What's the exact date two months from today,Assistant
+Can you find out the time in Moscow right now,Assistant
+Remind me to check the oven at 7 PM,Assistant
+Set a timer for the start of the TV show at 8 PM,Assistant
+Check if there are any new emails from today,Assistant
+Book my calendar for a team outing next month,Assistant
+Text message to Claire: See you in 10 minutes,Assistant
+Let's do a quick coin flip,Assistant
+Ask what day of the month it is,Assistant
+Could you get the time in New York for me,Assistant
+What is sixteen percent of 24,Assistant
+What is six plus seven,Assistant
+What is twelve divided by three,Assistant
+What is one hundred minus fifteen,Assistant
+What is twenty-two multiplied by three,Assistant
+What is the square of nine,Assistant
+What is two raised to the tenth power,Assistant
+What is seventy divided by two,Assistant
+What is eight times eleven,Assistant
+What is five hundred plus two hundred,Assistant
+What is four hundred thousand minus three hundred thousand,Assistant
+What is sixteen divided by four,Assistant
+What is fourteen times fourteen,Assistant
+What is eighty minus thirty-three,Assistant
+What is fifteen squared,Assistant
+What is nine times nine,Assistant
+What is six raised to the third power,Assistant
+What is three plus seven plus ten,Assistant
+What is eight minus four,Assistant
+What is two times fifty,Assistant
+What is thirty divided by five,Assistant
+What is ten to the sixth power,Assistant
+What is one plus one plus one,Assistant
+What is twenty-four times two,Assistant
+What is one hundred twenty minus twenty,Assistant
+What is five times five times five,Assistant
+What is eighteen divided by six,Assistant
+What is seven hundred plus one hundred,Assistant
+What is five hundred minus four hundred ninety-nine,Assistant
+What is fifty squared,Assistant
+What is three to the fifth power,Assistant
+What is eleven plus eleven,Assistant
+What is twenty-one minus nine,Assistant
+What is nine multiplied by seven,Assistant
+What is fifteen plus twenty-five,Assistant
+What is sixty divided by twelve,Assistant
+What is four raised to the fourth power,Assistant
+What is the square of thirty,Assistant
+What is six hundred divided by three,Assistant
+What is thirteen times thirteen,Assistant
+What is eighty plus twenty,Assistant
+What is a hundred times a hundred,Assistant
+What is forty minus fifteen,Assistant
+What is the cube of four,Assistant
+What is five plus five minus two,Assistant
+What is thirty-three times three,Assistant
+What is seven to the third power,Assistant
+What is two hundred divided by fifty,Assistant
+What is fourteen plus six,Assistant
+What is ten times ten times ten,Assistant
+What is eight hundred thousand multiplied by ten to the third power,Assistant
+What should I wear today,Weather
+When is the last time it rained,Weather
+Is it wet outside today,Weather
+Hows the rain today,Weather
+Should I dress warmly,Weather
+Am I going to sweat,Weather
+Am I going to sweat today,Weather
+Am I going to sweat my balls off today,Weather
+Is the weather frightful,Weather
+Is it cold outside,Weather
+Is it hot or cold,Weather
+Whats it like outdoors,Weather
+What's the weather like today?,Weather
+What's the temperature outside right now?,Weather
+Will it rain in Raleigh tomorrow?,Weather
+What's the weather forecast for Durham?,Weather
+Is there a chance of thunderstorms today?,Weather
+What's the humidity level in Charlotte?,Weather
+Should I wear a sweater tonight?,Weather
+Is it windy outside?,Weather
+What's the UV index for today?,Weather
+What's the forecast for the next week?,Weather
+Do I need a raincoat today?,Weather
+Is it going to snow in Asheville?,Weather
+What's the temperature for tonight?,Weather
+Is it sunny in Wilmington right now?,Weather
+What's the high for today?,Weather
+What's the low for tonight?,Weather
+Is there a weather advisory in effect?,Weather
+What's the forecast for the weekend?,Weather
+Is it foggy outside?,Weather
+What's the dew point right now?,Weather
+Is it going to be cloudy all day?,Weather
+What's the wind chill factor?,Weather
+What's the weather like in Greensboro?,Weather
+Is there a frost warning?,Weather
+What's the barometric pressure today?,Weather
+Will there be hail today?,Weather
+Should I dress in layers today?,Weather
+What's the visibility right now?,Weather
+Will it be cold in the morning?,Weather
+Is it raining in Fayetteville?,Weather
+What's the precipitation forecast?,Weather
+Will it be mild this week?,Weather
+What's the weather radar showing?,Weather
+Should I wear shorts today?,Weather
+What's the wind speed outside?,Weather
+Is it snowing in Boone?,Weather
+What's the cloud cover percentage?,Weather
+Will there be a breeze today?,Weather
+Is it drizzling outside?,Weather
+What's the temperature in Cary?,Weather
+Is it going to be overcast?,Weather
+What's the heat index today?,Weather
+What's the forecast for Chapel Hill?,Weather
+Is it muggy outside?,Weather
+What's the weather like in Hickory?,Weather
+Will it be warm this afternoon?,Weather
+Is it freezing outside?,Weather
+What's the air quality index?,Weather
+Will there be showers tonight?,Weather
+Is there a storm approaching?,Weather
+What's the temperature in the mountains?,Weather
+Will it be windy tomorrow?,Weather
+Is it sleeting outside?,Weather
+What's the current weather in Jacksonville?,Weather
+Will it be dry all day?,Weather
+Is there a chance of rain?,Weather
+What's the long-range forecast?,Weather
+Will it be hot in the evening?,Weather
+Is there a cold front coming?,Weather
+What's the forecast for the coast?,Weather
+Should I wear rain boots?,Weather
+Is it hailing outside?,Weather
+What's the current temperature in Winston-Salem?,Weather
+Will it be foggy tomorrow?,Weather
+What's the temperature on the Outer Banks?,Weather
+Will it be stormy this weekend?,Weather
+What's the weather for the Piedmont area?,Weather
+Will it be cool tomorrow morning?,Weather
+Is there an ice warning?,Weather
+What's the weather like in the Triad?,Weather
+Will there be a heat advisory?,Weather
+Is it too hot for a walk?,Weather
+What's the current weather in New Bern?,Weather
+Will it be rainy this week?,Weather
+Is there a wind advisory?,Weather
+What's the current forecast for Elizabeth City?,Weather
+Is it damp outside?,Weather
+What's the current weather in Raleigh?,Weather
+Is it going to be hot in Durham today?,Weather
+Do I need a heavy coat today?,Weather
+What's the temperature in Charlotte right now?,Weather
+Will it rain this afternoon?,Weather
+Is it going to be cold tonight?,Weather
+What's the weather forecast for Greensboro tomorrow?,Weather
+Do I need to wear a scarf today?,Weather
+What's the temperature in Asheville?,Weather
+Is it sunny in Wilmington this morning?,Weather
+What's the high temperature for today?,Weather
+Is it going to be windy all day?,Weather
+Do I need to bundle up tonight?,Weather
+What's the temperature forecast for the next three days?,Weather
+Is it cloudy in Fayetteville?,Weather
+Do I need gloves today?,Weather
+What's the current weather in Cary?,Weather
+Will it be rainy all week?,Weather
+Is there a weather alert for Boone?,Weather
+What's the UV index in Wilmington today?,Weather
+Is it foggy in the morning?,Weather
+Do I need to wear a hat today?,Weather
+What's the current humidity in Raleigh?,Weather
+Is it going to be overcast tomorrow?,Weather
+Will there be thunderstorms this evening?,Weather
+What's the forecast for New Bern this weekend?,Weather
+Is it chilly in the mountains today?,Weather
+Do I need to wear boots today?,Weather
+What's the weather like in Elizabeth City?,Weather
+Is it raining in Hickory right now?,Weather
+Will it be warm this weekend?,Weather
+What's the air pressure today?,Weather
+Is there a wind chill advisory?,Weather
+What's the precipitation chance for tomorrow?,Weather
+Is it going to be humid all day?,Weather
+Will there be a frost tonight?,Weather
+Is it going to be clear all week?,Weather
+Do I need an umbrella for tomorrow?,Weather
+What's the weather radar for Chapel Hill?,Weather
+Is it snowing in the Piedmont area?,Weather
+What's the forecast for the Outer Banks?,Weather
+Will it be a hot day?,Weather
+Is it going to rain all day?,Weather
+What's the current visibility?,Weather
+Do I need a light jacket today?,Weather
+What's the current weather in the Triad?,Weather
+Will it be cloudy tomorrow?,Weather
+Is it going to be a cold night?,Weather
+What's the dew point today?,Weather
+Will it be sunny all afternoon?,Weather
+Is there a heat index warning?,Weather
+What's the forecast for Jacksonville?,Weather
+What's the current temperature in Wilmington?,Weather
+Will it be hot this afternoon?,Weather
+Is it going to be cold this weekend?,Weather
+What's the current temperature in Raleigh?,Weather
+Will it rain in the evening?,Weather
+Is there a weather advisory for Durham?,Weather
+What's the UV index in Charlotte?,Weather
+Is it foggy right now?,Weather
+Do I need to wear layers today?,Weather
+What's the humidity level in Greensboro?,Weather
+Will it be overcast all day?,Weather
+Is it going to snow in Asheville tomorrow?,Weather
+What's the current temperature in Fayetteville?,Weather
+Will it be a chilly morning?,Weather
+Is there a storm warning?,Weather
+What's the current weather in Hickory?,Weather
+Will it rain in Cary today?,Weather
+Is it going to be windy in Boone?,Weather
+What's the current temperature in Chapel Hill?,Weather
+Will it be a sunny day?,Weather
+Is there a flood advisory?,Weather
+Will it be warm tonight?,Weather
+Is it going to be cold in the morning?,Weather
+What's the air quality in Elizabeth City?,Weather
+Will it rain this week?,Weather
+What's the current temperature in the Piedmont?,Weather
+Will it be hot in Winston-Salem today?,Weather
+What's the current temperature in the mountains?,Weather
+Will it be a clear night?,Weather
+Is there a freeze warning?,Weather
+What's the current weather in the Outer Banks?,Weather
+Will it be windy tonight?,Weather
+Is it going to rain all night?,Weather
+What's the current temperature in Jacksonville?,Weather
+Will it be sunny in the afternoon?,Weather
+Is there a heat warning?,Weather
+What's the current temperature in the Triad?,Weather
+Will it be a mild day?,Weather
+Is it going to snow in Raleigh?,Weather
+What's the current weather in Durham?,Weather
+Will it rain in Charlotte tomorrow?,Weather
+Is it going to be windy in Greensboro?,Weather
+What's the current temperature in Asheville?,Weather
+Will it be a cold day?,Weather
+Is there a storm alert?,Weather
+What's the current weather in Fayetteville?,Weather
+Will it be warm in Hickory today?,Weather
+Is it going to be clear in Cary?,Weather
+What's the current temperature in Boone?,Weather
+Will it rain this afternoon in Chapel Hill?,Weather
+Is it going to snow in New Bern?,Weather
+What's the current temperature in Elizabeth City?,Weather
+Will it be sunny in the Piedmont?,Weather
+Is it going to be foggy in Winston-Salem?,Weather
+What's the current weather in the mountains?,Weather
+Will it be a windy day?,Weather
+Is it going to be humid in the Outer Banks?,Weather
+Will it be a clear afternoon?,Weather
