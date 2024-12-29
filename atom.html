@@ -1,0 +1,82 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Input and Audio Recording</title>
+    <link rel="stylesheet" href="atom-style.css">
+</head>
+<body>
+
+    <div id="atom-chat-container">
+        <div id="atom-chat-window"></div>
+
+        <div id="atom-input-container">
+            <input type="text" id="atom-input-text" placeholder="Type your message here..." />
+            <button id="atom-send-button">Send Text</button>
+            <button id="atom-record-button">Start Recording</button>
+        </div>
+    </div>
+
+    <script src="atom-script.js"></script>
+
+</body>
+</html> -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atom AI Interface</title>
+    <link rel="stylesheet" href="atom-style.css">
+</head>
+<body>
+    <div class="atom-interface">
+        <!-- Orbit Paths -->
+        <div class="orbit" id="orbit1"></div>
+        <div class="orbit" id="orbit2"></div>
+        <div class="orbit" id="orbit3"></div>
+
+        <!-- Nucleus -->
+        <div id="nucleus"></div>
+        
+        <!-- Electrons -->
+        <div class="electron" id="electron1"></div>
+        <div class="electron" id="electron2"></div>
+        <div class="electron" id="electron3"></div>
+        <div class="electron" id="electron4"></div>
+        
+        <!-- Clock -->
+        <div id="clock"></div>
+
+        <!-- Controls -->
+        <div class="controls">
+            <!-- Microphone Icon -->
+            <svg id="mic-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                <path d="M12,14A3.91,3.91 0 0,0 15.75,11.25V5A3.91,3.91 0 0,0 12,1A3.91,3.91 0 0,0 8.25,5V11.25A3.91,3.91 0 0,0 12,14M19,10V12A7,7 0 0,1 12,19A7,7 0 0,1 5,12V10H7V12A5,5 0 0,0 12,17A5,5 0 0,0 17,12V10H19M12,19V23H8V21H16V23H12V19Z" />
+            </svg>
+            <!-- Keyboard Icon -->
+            <svg id="keyboard-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                <path d="M2 5a2 2 0 00-2 2v10a2 2 0 002 2h20a2 2 0 002-2V7a2 2 0 00-2-2H2zm2 3h2v2H4V8zm3 0h2v2H7V8zm3 0h2v2h-2V8zm3 0h2v2h-2V8zm3 0h2v2h-2V8zm3 0h2v2h-2V8zM4 11h2v2H4v-2zm3 0h2v2H7v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2V8zm3 0h2v2h-2V8zm3 0h2v2h-2V8zm3 0h2v2h-2V8zm3 0h2v2h-2V8zM4 14h2v2H4v-2zm3 0h10v2H7v-2zm10 0h2v2h-2v-2zm3 0h2v2h-2v-2z"/>
+            </svg>
+        </div>
+
+        <!-- Hidden Text Box for AI Interaction -->
+        <div id="textbox-container" style="display: none;">
+            <input type="text" id="ai-input" placeholder="Type your command..." />
+        </div>
+    </div>
+
+    <div id="atom-chat-container">
+        <div id="atom-chat-window"></div>
+
+        <div id="atom-input-container">
+            <input type="text" id="atom-input-text" placeholder="Type your message here..." />
+            <button id="send-text-button">Send Text</button>
+            <button id="start-recording-button">Start Recording</button>
+        </div>
+    </div>
+    
+    <script src="atom-script.js"></script>
+</body>
+</html>
